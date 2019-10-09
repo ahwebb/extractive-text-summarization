@@ -1,0 +1,592 @@
+{"count": 72, "ids": [46], "pos": "vbz", "rank": 0.01785342959402276, "text": "is"}
+{"count": 3, "ids": [128], "pos": "np", "rank": 0.017360244187392244, "text": "story"}
+{"count": 11, "ids": [33, 34], "pos": "np", "rank": 0.016569506282813652, "text": "dale cooper"}
+{"count": 1, "ids": [205, 13, 14], "pos": "np", "rank": 0.01293376076468694, "text": "world david lynch"}
+{"count": 20, "ids": [8, 9], "pos": "np", "rank": 0.01214269315975139, "text": "twin peaks"}
+{"count": 2, "ids": [358, 61], "pos": "np", "rank": 0.010759402935105309, "text": "own life"}
+{"count": 6, "ids": [90], "pos": "np", "rank": 0.009973906900778026, "text": "audience"}
+{"count": 1, "ids": [29, 30, 31], "pos": "np", "rank": 0.009281467524187095, "text": "fbi special agent"}
+{"count": 6, "ids": [9], "pos": "np", "rank": 0.008807482999647086, "text": "peaks"}
+{"count": 3, "ids": [358, 128], "pos": "np", "rank": 0.008680122093696122, "text": "own story"}
+{"count": 1, "ids": [2, 3, 4], "pos": "np", "rank": 0.008672141277316192, "text": "new series revival"}
+{"count": 4, "ids": [26, 27], "pos": "np", "rank": 0.00845600662975313, "text": "laura palmer"}
+{"count": 23, "ids": [34], "pos": "np", "rank": 0.008284753141406826, "text": "cooper"}
+{"count": 5, "ids": [13, 14], "pos": "np", "rank": 0.007477518219810784, "text": "david lynch"}
+{"count": 1, "ids": [193, 194, 195, 196, 185], "pos": "np", "rank": 0.0066046080886209, "text": "strange domestic soap opera dramas"}
+{"count": 1, "ids": [81, 82], "pos": "np", "rank": 0.006551441653114073, "text": "alien ways"}
+{"count": 3, "ids": [205], "pos": "np", "rank": 0.00646688038234347, "text": "world"}
+{"count": 19, "ids": [42], "pos": "vbd", "rank": 0.00634282104270887, "text": "had"}
+{"count": 1, "ids": [8, 9, 4], "pos": "np", "rank": 0.006071346579875695, "text": "twin peaks revival"}
+{"count": 1, "ids": [23, 24, 25, 26], "pos": "np", "rank": 0.005908071039196297, "text": "series-defining murder victim laura"}
+{"count": 1, "ids": [372, 128], "pos": "np", "rank": 0.005786748062464082, "text": "personal story"}
+{"count": 4, "ids": [31, 34], "pos": "np", "rank": 0.005523168760937884, "text": "agent cooper"}
+{"count": 25, "ids": [85], "pos": "vbz", "rank": 0.005424541860815674, "text": "\u2019s"}
+{"count": 3, "ids": [61], "pos": "nn", "rank": 0.005379701467552654, "text": "life"}
+{"count": 1, "ids": [69], "pos": "np", "rank": 0.005291184432041591, "text": "show"}
+{"count": 1, "ids": [16, 24, 141], "pos": "np", "rank": 0.005214891709819373, "text": "tv murder mysteries"}
+{"count": 1, "ids": [197, 198], "pos": "np", "rank": 0.0051802462072266416, "text": "oddball interactions"}
+{"count": 5, "ids": [132], "pos": "np", "rank": 0.00512873696315818, "text": "viewers"}
+{"count": 2, "ids": [77, 78], "pos": "np", "rank": 0.005093450359632577, "text": "incomprehensible force"}
+{"count": 1, "ids": [16, 90], "pos": "np", "rank": 0.004986953450389013, "text": "tv audience"}
+{"count": 1, "ids": [164], "pos": "np", "rank": 0.004882837198842798, "text": "town"}
+{"count": 1, "ids": [59], "pos": "np", "rank": 0.004871265617282542, "text": "characters"}
+{"count": 1, "ids": [234, 235], "pos": "np", "rank": 0.004755552263721029, "text": "breakfast food"}
+{"count": 8, "ids": [31], "pos": "nnp", "rank": 0.004640733762093547, "text": "agent"}
+{"count": 1, "ids": [246, 247], "pos": "np", "rank": 0.004458162501552902, "text": "outsized cheer"}
+{"count": 1, "ids": [273, 217], "pos": "np", "rank": 0.004385509751009663, "text": "alarming experiences"}
+{"count": 1, "ids": [443, 444], "pos": "np", "rank": 0.004358913871335485, "text": "decoy body"}
+{"count": 1, "ids": [34, 402, 128], "pos": "np", "rank": 0.004340061046848061, "text": "cooper \u2019s story"}
+{"count": 1, "ids": [2, 63], "pos": "np", "rank": 0.004336070638658096, "text": "new jobs"}
+{"count": 1, "ids": [526, 205], "pos": "np", "rank": 0.0043112535882289795, "text": "lynchian world"}
+{"count": 3, "ids": [8, 191], "pos": "np", "rank": 0.004294171436952534, "text": "twin peaks\u2019"}
+{"count": 1, "ids": [16, 3], "pos": "np", "rank": 0.004255988909582874, "text": "tv series"}
+{"count": 1, "ids": [31, 33, 34], "pos": "np", "rank": 0.004142376570703413, "text": "agent dale cooper"}
+{"count": 1, "ids": [3, 32], "pos": "np", "rank": 0.00414145750869465, "text": "series protagonist"}
+{"count": 8, "ids": [44], "pos": "vbg", "rank": 0.004079532153113003, "text": "going"}
+{"count": 1, "ids": [50, 143], "pos": "np", "rank": 0.004051977407444583, "text": "air time"}
+{"count": 1, "ids": [27, 24, 176], "pos": "np", "rank": 0.00405174353383073, "text": "palmer murder case"}
+{"count": 1, "ids": [8, 9, 0, 0], "pos": "np", "rank": 0.004047564386583797, "text": "twin peaks \u2014 its"}
+{"count": 1, "ids": [197, 270, 271], "pos": "np", "rank": 0.003994187554367876, "text": "oddball psychic experiments"}
+{"count": 1, "ids": [6, 0, 0, 7, 0], "pos": "np", "rank": 0.003922863462660861, "text": "episode 4 of season 3"}
+{"count": 1, "ids": [322, 121], "pos": "np", "rank": 0.0039027007768163884, "text": "internal man"}
+{"count": 3, "ids": [29], "pos": "np", "rank": 0.003819269497949759, "text": "fbi"}
+{"count": 1, "ids": [476, 269], "pos": "np", "rank": 0.0037893122581799605, "text": "tiny clues"}
+{"count": 9, "ids": [14], "pos": "np", "rank": 0.003738759109905392, "text": "lynch"}
+{"count": 5, "ids": [66], "pos": "vbz", "rank": 0.0036195868547407857, "text": "takes"}
+{"count": 1, "ids": [113, 114, 115], "pos": "np", "rank": 0.0035597148357019866, "text": "weird cable art-experiment"}
+{"count": 1, "ids": [165, 166], "pos": "np", "rank": 0.0035130947750051733, "text": "quirky people"}
+{"count": 1, "ids": [473, 128], "pos": "np", "rank": 0.003472048837478449, "text": "specific story"}
+{"count": 1, "ids": [2, 9, 99], "pos": "np", "rank": 0.0034526055076649804, "text": "new peaks narrative"}
+{"count": 1, "ids": [296, 297], "pos": "np", "rank": 0.003361982706831584, "text": "glowing giant"}
+{"count": 1, "ids": [90, 486], "pos": "np", "rank": 0.0033246356335926756, "text": "audience avatar"}
+{"count": 3, "ids": [185], "pos": "nns", "rank": 0.00330230404431045, "text": "dramas"}
+{"count": 1, "ids": [373, 374, 185], "pos": "np", "rank": 0.00330230404431045, "text": "long-arc serial dramas"}
+{"count": 1, "ids": [109, 82], "pos": "np", "rank": 0.0032757208265570366, "text": "same ways"}
+{"count": 1, "ids": [461, 353], "pos": "np", "rank": 0.003263324480801558, "text": "creative control"}
+{"count": 1, "ids": [293, 294], "pos": "np", "rank": 0.0032630961448545485, "text": "oldest waiter"}
+{"count": 1, "ids": [404, 405], "pos": "np", "rank": 0.0031654420431293955, "text": "consistent throughline"}
+{"count": 3, "ids": [60], "pos": "vbn", "rank": 0.0031434464853481643, "text": "moved"}
+{"count": 1, "ids": [138, 139], "pos": "np", "rank": 0.0030954999863951533, "text": "long arcs"}
+{"count": 1, "ids": [167, 168], "pos": "np", "rank": 0.003080503165990571, "text": "unexpected pleasures"}
+{"count": 2, "ids": [0, 74, 75], "pos": "np", "rank": 0.0030445997380085343, "text": "the black lodge"}
+{"count": 3, "ids": [28], "pos": "vb", "rank": 0.0030093535894900815, "text": "tell"}
+{"count": 1, "ids": [267], "pos": "np", "rank": 0.0029767717304582946, "text": "canada"}
+{"count": 1, "ids": [109, 177, 178], "pos": "np", "rank": 0.002968000382923366, "text": "same natural confidence"}
+{"count": 6, "ids": [24], "pos": "vb", "rank": 0.0029540355195981486, "text": "murder"}
+{"count": 1, "ids": [45], "pos": "np", "rank": 0.0029500808956437197, "text": "promise"}
+{"count": 1, "ids": [2, 67], "pos": "np", "rank": 0.0028907137591053975, "text": "new obsessions"}
+{"count": 1, "ids": [291, 292], "pos": "np", "rank": 0.0028689012578463646, "text": "unhelpful attentions"}
+{"count": 1, "ids": [26], "pos": "np", "rank": 0.002818668876584377, "text": "laura"}
+{"count": 1, "ids": [508, 509, 510], "pos": "np", "rank": 0.0028143092993647583, "text": "glowing magical sigils"}
+{"count": 1, "ids": [33, 34, 0], "pos": "np", "rank": 0.002761584380468942, "text": "dale cooper \u2019s"}
+{"count": 7, "ids": [33], "pos": "nnp", "rank": 0.0027507243674127, "text": "dale"}
+{"count": 1, "ids": [334, 335], "pos": "np", "rank": 0.0027244823862522197, "text": "windom earle"}
+{"count": 1, "ids": [0, 143, 7, 0, 180], "pos": "np", "rank": 0.0026775697482317867, "text": "the time season 2 ended"}
+{"count": 1, "ids": [181, 182], "pos": "np", "rank": 0.0026290741649164506, "text": "procedural details"}
+{"count": 6, "ids": [141], "pos": "nn", "rank": 0.0026074458549096863, "text": "mystery"}
+{"count": 3, "ids": [197], "pos": "vb", "rank": 0.0025901231036133208, "text": "oddball"}
+{"count": 1, "ids": [299], "pos": "np", "rank": 0.0025808953516125582, "text": "information"}
+{"count": 1, "ids": [16, 132], "pos": "np", "rank": 0.00256436848157909, "text": "tv viewers"}
+{"count": 1, "ids": [240, 241, 242], "pos": "np", "rank": 0.002554598905215653, "text": "maple syrup collides"}
+{"count": 4, "ids": [468], "pos": "vbg", "rank": 0.0025504519548434595, "text": "trying"}
+{"count": 5, "ids": [78], "pos": "nn", "rank": 0.0025467251798162887, "text": "force"}
+{"count": 1, "ids": [354, 78], "pos": "np", "rank": 0.0025467251798162887, "text": "motive force"}
+{"count": 2, "ids": [145], "pos": "vbg", "rank": 0.0025338440175632594, "text": "letting"}
+{"count": 2, "ids": [301], "pos": "vbg", "rank": 0.002532068443472489, "text": "living"}
+{"count": 9, "ids": [35], "pos": "vb", "rank": 0.002520863468952291, "text": "see"}
+{"count": 1, "ids": [255], "pos": "np", "rank": 0.0024884341642892644, "text": "douglas"}
+{"count": 1, "ids": [119, 19], "pos": "np", "rank": 0.002487698813101188, "text": "awkward process"}
+{"count": 1, "ids": [25], "pos": "np", "rank": 0.002479388321592513, "text": "victim"}
+{"count": 1, "ids": [22, 72], "pos": "np", "rank": 0.002451572682596436, "text": "spirit domain"}
+{"count": 2, "ids": [120], "pos": "vbg", "rank": 0.002436605336442536, "text": "maturing"}
+{"count": 1, "ids": [83, 59], "pos": "np", "rank": 0.002435632808641271, "text": "other character"}
+{"count": 1, "ids": [8, 191, 167, 168], "pos": "np", "rank": 0.0024285386319502777, "text": "twin peaks\u2019 unexpected pleasures"}
+{"count": 1, "ids": [159, 160, 161], "pos": "np", "rank": 0.0023913493517915122, "text": "mid-sized mountain community"}
+{"count": 1, "ids": [202, 203], "pos": "np", "rank": 0.00237834515412468, "text": "unusual texture"}
+{"count": 2, "ids": [235], "pos": "nn", "rank": 0.0023777761318605145, "text": "food"}
+{"count": 1, "ids": [116, 31, 34], "pos": "np", "rank": 0.0023670723261162356, "text": "old agent cooper"}
+{"count": 1, "ids": [305, 306, 307], "pos": "np", "rank": 0.0023502361398661875, "text": "voice-activated tape recorder"}
+{"count": 2, "ids": [100], "pos": "np", "rank": 0.0023085155304640842, "text": "something"}
+{"count": 1, "ids": [338, 339], "pos": "np", "rank": 0.002306037889529037, "text": "past failings"}
+{"count": 1, "ids": [256], "pos": "vbz", "rank": 0.0023008956073585, "text": "firs"}
+{"count": 1, "ids": [254], "pos": "nn", "rank": 0.002290110760430096, "text": "smell"}
+{"count": 1, "ids": [238, 239], "pos": "np", "rank": 0.002274928318971684, "text": "taste sensation"}
+{"count": 1, "ids": [247], "pos": "nn", "rank": 0.002229081250776451, "text": "cheer"}
+{"count": 3, "ids": [0, 36], "pos": "np", "rank": 0.002228020526777481, "text": "25 years"}
+{"count": 1, "ids": [438, 439], "pos": "np", "rank": 0.002221702465242288, "text": "unclear motives"}
+{"count": 1, "ids": [133, 134], "pos": "np", "rank": 0.0022148548424682285, "text": "sophisticated expectations"}
+{"count": 6, "ids": [97], "pos": "vbg", "rank": 0.002200716326845195, "text": "helping"}
+{"count": 3, "ids": [217], "pos": "nns", "rank": 0.0021927548755048317, "text": "experiences"}
+{"count": 1, "ids": [211, 82], "pos": "np", "rank": 0.0021838138843713576, "text": "popular way"}
+{"count": 2, "ids": [444], "pos": "nn", "rank": 0.0021794569356677427, "text": "body"}
+{"count": 1, "ids": [111, 112], "pos": "np", "rank": 0.0021774829164165903, "text": "era-defining hit"}
+{"count": 1, "ids": [2, 127], "pos": "np", "rank": 0.002168035319329048, "text": "new kind"}
+{"count": 4, "ids": [191], "pos": "nnp", "rank": 0.002147085718476267, "text": "peaks\u2019"}
+{"count": 1, "ids": [356, 357], "pos": "np", "rank": 0.0021410068741415885, "text": "passive object"}
+{"count": 1, "ids": [363], "pos": "np", "rank": 0.002134540262789716, "text": "hero"}
+{"count": 5, "ids": [16], "pos": "nn", "rank": 0.002127994454791437, "text": "tv"}
+{"count": 1, "ids": [26, 27, 0], "pos": "np", "rank": 0.0021140016574382825, "text": "laura palmer \u2014"}
+{"count": 4, "ids": [27], "pos": "nnp", "rank": 0.0020989612555848735, "text": "palmer"}
+{"count": 4, "ids": [32], "pos": "np", "rank": 0.002070728754347325, "text": "protagonists"}
+{"count": 4, "ids": [152], "pos": "vbz", "rank": 0.002054577702307397, "text": "seems"}
+{"count": 1, "ids": [309, 310], "pos": "np", "rank": 0.0020274268661573474, "text": "excruciating events"}
+{"count": 3, "ids": [143], "pos": "nn", "rank": 0.0020259887037222916, "text": "time"}
+{"count": 2, "ids": [176], "pos": "nn", "rank": 0.002025871766915365, "text": "case"}
+{"count": 1, "ids": [8, 191, 53, 3, 369], "pos": "np", "rank": 0.0020237821932918986, "text": "twin peaks\u2019 original series run"}
+{"count": 4, "ids": [137], "pos": "vbn", "rank": 0.0020154370142056693, "text": "expected"}
+{"count": 1, "ids": [264, 265, 266], "pos": "np", "rank": 0.0020142769609965624, "text": "wacky cosplay adventures"}
+{"count": 2, "ids": [206, 207], "pos": "np", "rank": 0.002004430597374154, "text": "mark frost"}
+{"count": 2, "ids": [62], "pos": "vbd", "rank": 0.001998389137340613, "text": "got"}
+{"count": 1, "ids": [122], "pos": "np", "rank": 0.0019981566953973877, "text": "development"}
+{"count": 1, "ids": [271], "pos": "nns", "rank": 0.001997093777183938, "text": "experiments"}
+{"count": 5, "ids": [64], "pos": "nn", "rank": 0.0019955967366633936, "text": "form"}
+{"count": 1, "ids": [81, 94, 95], "pos": "np", "rank": 0.0019908079187222873, "text": "alien storytelling methods"}
+{"count": 1, "ids": [342], "pos": "np", "rank": 0.001965697860387359, "text": "interest"}
+{"count": 1, "ids": [300], "pos": "vbg", "rank": 0.001964736112273225, "text": "acknowledging"}
+{"count": 3, "ids": [344], "pos": "vbn", "rank": 0.0019642582824793593, "text": "consumed"}
+{"count": 3, "ids": [0, 20, 7], "pos": "np", "rank": 0.0019614317313304307, "text": "the second season"}
+{"count": 1, "ids": [183, 184], "pos": "np", "rank": 0.0019591903130693655, "text": "red herrings"}
+{"count": 3, "ids": [121], "pos": "nn", "rank": 0.0019513503884081942, "text": "man"}
+{"count": 2, "ids": [366], "pos": "vbd", "rank": 0.0019129422756345765, "text": "trended"}
+{"count": 2, "ids": [447], "pos": "vbg", "rank": 0.001912745321091111, "text": "repeating"}
+{"count": 1, "ids": [367], "pos": "nn", "rank": 0.0018983052471552412, "text": "impotence"}
+{"count": 1, "ids": [525], "pos": "np", "rank": 0.0018951048243428083, "text": "trials"}
+{"count": 2, "ids": [269], "pos": "nns", "rank": 0.0018946561290899802, "text": "clues"}
+{"count": 1, "ids": [368], "pos": "nn", "rank": 0.0018856080372808416, "text": "course"}
+{"count": 1, "ids": [243], "pos": "nn", "rank": 0.0018833652674746073, "text": "ham"}
+{"count": 3, "ids": [13], "pos": "nnp", "rank": 0.0018303629603260586, "text": "david"}
+{"count": 4, "ids": [355], "pos": "vbd", "rank": 0.0018042238370179556, "text": "became"}
+{"count": 1, "ids": [140, 59, 122], "pos": "np", "rank": 0.0017965836520975676, "text": "slow character development"}
+{"count": 1, "ids": [102, 103], "pos": "np", "rank": 0.0017896079258181983, "text": "obscure vision"}
+{"count": 1, "ids": [39, 6], "pos": "np", "rank": 0.0017891465934211314, "text": "first episode"}
+{"count": 1, "ids": [115], "pos": "nn", "rank": 0.0017798574178509933, "text": "art-experiment"}
+{"count": 5, "ids": [87], "pos": "vbg", "rank": 0.001776026368780202, "text": "watching"}
+{"count": 1, "ids": [523, 524], "pos": "np", "rank": 0.0017723367682223278, "text": "network television"}
+{"count": 2, "ids": [258], "pos": "vbd", "rank": 0.0017659378818689559, "text": "emerged"}
+{"count": 1, "ids": [9, 225], "pos": "np", "rank": 0.0017614965999294169, "text": "peaks parties"}
+{"count": 2, "ids": [3], "pos": "np", "rank": 0.0017598688784241819, "text": "series"}
+{"count": 2, "ids": [166], "pos": "np", "rank": 0.0017565473875025867, "text": "people"}
+{"count": 2, "ids": [362, 191], "pos": "np", "rank": 0.001747326633175204, "text": "was.\u2018twin peaks\u2019"}
+{"count": 1, "ids": [231, 232], "pos": "np", "rank": 0.0017460316311507073, "text": "cherry pie"}
+{"count": 1, "ids": [343], "pos": "np", "rank": 0.001734908504150894, "text": "soul"}
+{"count": 1, "ids": [8, 191, 139], "pos": "np", "rank": 0.0017346704513930555, "text": "twin peaks\u2019 arc"}
+{"count": 1, "ids": [2, 3], "pos": "np", "rank": 0.0017344282554632383, "text": "new series"}
+{"count": 1, "ids": [501, 502], "pos": "np", "rank": 0.001732303671126319, "text": "dozen-word vocabulary"}
+{"count": 1, "ids": [99], "pos": "np", "rank": 0.0017263027538324902, "text": "narrative"}
+{"count": 1, "ids": [434, 78], "pos": "np", "rank": 0.0016978167865441924, "text": "unseen force"}
+{"count": 2, "ids": [507], "pos": "np", "rank": 0.0016709697128609933, "text": "order"}
+{"count": 1, "ids": [295], "pos": "vbg", "rank": 0.0016580815437044275, "text": "listening"}
+{"count": 4, "ids": [117], "pos": "vbg", "rank": 0.001651729228488876, "text": "following"}
+{"count": 1, "ids": [198], "pos": "nns", "rank": 0.0016457783144373593, "text": "interactions"}
+{"count": 1, "ids": [53, 54, 55], "pos": "np", "rank": 0.001643391750052908, "text": "original cast members"}
+{"count": 3, "ids": [364], "pos": "vbn", "rank": 0.0016398103711076856, "text": "broken"}
+{"count": 1, "ids": [82], "pos": "np", "rank": 0.0016378604132785183, "text": "way"}
+{"count": 1, "ids": [2, 336], "pos": "np", "rank": 0.001635523613378846, "text": "new chaos"}
+{"count": 1, "ids": [105], "pos": "np", "rank": 0.0016330733442492366, "text": "tone"}
+{"count": 3, "ids": [353], "pos": "nn", "rank": 0.001631662240400779, "text": "control"}
+{"count": 1, "ids": [294], "pos": "nn", "rank": 0.0016315480724272743, "text": "waiter"}
+{"count": 1, "ids": [436, 437], "pos": "np", "rank": 0.0016182506318260484, "text": "blinded woman"}
+{"count": 4, "ids": [281], "pos": "nn", "rank": 0.0016169311543796317, "text": "point"}
+{"count": 1, "ids": [441, 442], "pos": "np", "rank": 0.0016133650089720855, "text": "electrical socket"}
+{"count": 1, "ids": [169, 170], "pos": "np", "rank": 0.0016130452948916578, "text": "sheer vividness"}
+{"count": 1, "ids": [251, 252, 253], "pos": "np", "rank": 0.0016002656199927442, "text": "boy scout enthusiasm"}
+{"count": 1, "ids": [431], "pos": "nn", "rank": 0.0015916920627529665, "text": "brain"}
+{"count": 1, "ids": [496, 497], "pos": "np", "rank": 0.0015908195719954046, "text": "kyle maclachlan"}
+{"count": 1, "ids": [424, 425, 426, 427], "pos": "np", "rank": 0.0015844796102302443, "text": "angry human-sized nervous system"}
+{"count": 1, "ids": [405], "pos": "nn", "rank": 0.0015827210215646978, "text": "throughline"}
+{"count": 1, "ids": [165, 416], "pos": "np", "rank": 0.0015745808679214221, "text": "quirky surprises"}
+{"count": 2, "ids": [142], "pos": "np", "rank": 0.0015685591283001899, "text": "hours"}
+{"count": 3, "ids": [39], "pos": "np", "rank": 0.0015685591283001899, "text": "first"}
+{"count": 3, "ids": [91], "pos": "vbn", "rank": 0.0015610929368144275, "text": "stuck"}
+{"count": 1, "ids": [406, 407], "pos": "np", "rank": 0.0015560406789736684, "text": "tragic one"}
+{"count": 2, "ids": [370], "pos": "vb", "rank": 0.001548929784495, "text": "make"}
+{"count": 2, "ids": [139], "pos": "nn", "rank": 0.0015477499931975767, "text": "arc"}
+{"count": 1, "ids": [545, 546], "pos": "np", "rank": 0.0015368148777363734, "text": "glass boxes"}
+{"count": 1, "ids": [461, 472], "pos": "np", "rank": 0.001524601817288728, "text": "creative mastermind"}
+{"count": 2, "ids": [74, 75], "pos": "np", "rank": 0.0015222998690042672, "text": "black lodge"}
+{"count": 2, "ids": [8], "pos": "np", "rank": 0.0015178366449689238, "text": "twin"}
+{"count": 4, "ids": [135], "pos": "vbd", "rank": 0.001515697050467091, "text": "did"}
+{"count": 2, "ids": [149], "pos": "vbn", "rank": 0.001513033186234179, "text": "baffled"}
+{"count": 1, "ids": [403], "pos": "vbz", "rank": 0.0014939249594609957, "text": "remains"}
+{"count": 1, "ids": [178], "pos": "np", "rank": 0.001484000191461683, "text": "confidence"}
+{"count": 1, "ids": [131], "pos": "nn", "rank": 0.0014774516769554865, "text": "entirelytoday"}
+{"count": 1, "ids": [209, 45], "pos": "np", "rank": 0.0014750404478218598, "text": "early promise"}
+{"count": 1, "ids": [498], "pos": "vbg", "rank": 0.001471571316046504, "text": "staggering"}
+{"count": 1, "ids": [208], "pos": "vbd", "rank": 0.0014708248194812625, "text": "built"}
+{"count": 3, "ids": [277], "pos": "vb", "rank": 0.0014672534733834199, "text": "return"}
+{"count": 1, "ids": [193, 2, 285], "pos": "np", "rank": 0.0014620211129754712, "text": "strange new revelation"}
+{"count": 2, "ids": [302], "pos": "vbn", "rank": 0.0014447212869386674, "text": "used"}
+{"count": 1, "ids": [204], "pos": "nn", "rank": 0.001436932885852386, "text": "color"}
+{"count": 1, "ids": [292], "pos": "nns", "rank": 0.0014344506289231823, "text": "attentions"}
+{"count": 1, "ids": [227], "pos": "np", "rank": 0.0014313003530432406, "text": "things"}
+{"count": 4, "ids": [4], "pos": "nn", "rank": 0.0014259996110983582, "text": "revival"}
+{"count": 1, "ids": [96], "pos": "np", "rank": 0.0014107810655761472, "text": "mediators"}
+{"count": 1, "ids": [116, 3], "pos": "np", "rank": 0.0014078951027393456, "text": "old series"}
+{"count": 1, "ids": [298], "pos": "vbz", "rank": 0.0014074154404878606, "text": "dispenses"}
+{"count": 1, "ids": [510], "pos": "nns", "rank": 0.0014071546496823792, "text": "sigils"}
+{"count": 1, "ids": [450, 451], "pos": "np", "rank": 0.0014034983110334104, "text": "random strangers"}
+{"count": 2, "ids": [0, 136], "pos": "np", "rank": 0.001402357298333798, "text": "the 1990s"}
+{"count": 1, "ids": [375], "pos": "np", "rank": 0.0014004085653373801, "text": "today"}
+{"count": 1, "ids": [537, 538], "pos": "np", "rank": 0.0013983469355316237, "text": "biggest conundrum"}
+{"count": 2, "ids": [0, 209, 210], "pos": "np", "rank": 0.0013971363145789122, "text": "the early days"}
+{"count": 1, "ids": [352], "pos": "vbn", "rank": 0.001394211177858985, "text": "confused"}
+{"count": 3, "ids": [280], "pos": "vb", "rank": 0.0013858683273100397, "text": "understand"}
+{"count": 1, "ids": [429], "pos": "nn", "rank": 0.001381877372564464, "text": "pulsing"}
+{"count": 1, "ids": [529, 78], "pos": "np", "rank": 0.0013735550556907416, "text": "active force"}
+{"count": 5, "ids": [172], "pos": "vb", "rank": 0.0013714737313612992, "text": "solve"}
+{"count": 2, "ids": [125], "pos": "nn", "rank": 0.0013656458231815268, "text": "maturing"}
+{"count": 1, "ids": [332, 29, 333, 334, 335], "pos": "np", "rank": 0.0013622411931261099, "text": "former fbi partner windom earle"}
+{"count": 1, "ids": [234], "pos": "nn", "rank": 0.0013552164853487712, "text": "breakfast"}
+{"count": 1, "ids": [143, 7], "pos": "np", "rank": 0.0013506591358148612, "text": "time season"}
+{"count": 1, "ids": [526], "pos": "np", "rank": 0.0013489684865488957, "text": "lynchian"}
+{"count": 1, "ids": [146], "pos": "vb", "rank": 0.001347309887191816, "text": "decode"}
+{"count": 1, "ids": [268], "pos": "vb", "rank": 0.001347309887191816, "text": "vet"}
+{"count": 2, "ids": [180], "pos": "vbd", "rank": 0.0013387848741158934, "text": "ended"}
+{"count": 2, "ids": [12], "pos": "vbd", "rank": 0.0013306595890696167, "text": "brought"}
+{"count": 1, "ids": [29, 340], "pos": "np", "rank": 0.001329420548185325, "text": "fbi standing"}
+{"count": 1, "ids": [423, 22], "pos": "np", "rank": 0.0013240747596927286, "text": "shrieking spirit"}
+{"count": 2, "ids": [483, 484], "pos": "np", "rank": 0.001316700743488051, "text": "little basis"}
+{"count": 2, "ids": [182], "pos": "nns", "rank": 0.0013145370824582253, "text": "details"}
+{"count": 1, "ids": [257, 182], "pos": "np", "rank": 0.0013145370824582253, "text": "more details"}
+{"count": 1, "ids": [438, 82], "pos": "np", "rank": 0.0013102883306228144, "text": "unclear ways"}
+{"count": 1, "ids": [20, 7, 21], "pos": "np", "rank": 0.001307621154220287, "text": "second season finale"}
+{"count": 1, "ids": [428], "pos": "vbn", "rank": 0.0013047058249157793, "text": "topped"}
+{"count": 1, "ids": [43], "pos": "np", "rank": 0.001304158101115606, "text": "fact"}
+{"count": 1, "ids": [548], "pos": "nns", "rank": 0.001301643384657895, "text": "nightmares"}
+{"count": 2, "ids": [327], "pos": "vbn", "rank": 0.0012985559981229836, "text": "threatened"}
+{"count": 1, "ids": [251, 252], "pos": "np", "rank": 0.0012944595586538833, "text": "boy scout"}
+{"count": 1, "ids": [365], "pos": "nnp", "rank": 0.0012931502198524833, "text": "himcooper"}
+{"count": 1, "ids": [162], "pos": "nn", "rank": 0.0012884563549597152, "text": "idea"}
+{"count": 7, "ids": [1], "pos": "np", "rank": 0.0012860074337628401, "text": "showtime"}
+{"count": 1, "ids": [242], "pos": "nns", "rank": 0.0012772994526078264, "text": "collides"}
+{"count": 1, "ids": [233], "pos": "nn", "rank": 0.0012743257679061575, "text": "coffee"}
+{"count": 1, "ids": [2, 9], "pos": "np", "rank": 0.0012582118570924408, "text": "new peaks"}
+{"count": 2, "ids": [168], "pos": "nns", "rank": 0.0012579455211913229, "text": "pleasures"}
+{"count": 1, "ids": [20, 7, 383], "pos": "np", "rank": 0.0012575082335180249, "text": "second season premiere"}
+{"count": 2, "ids": [460], "pos": "vbn", "rank": 0.0012563682094977884, "text": "given"}
+{"count": 5, "ids": [245], "pos": "vb", "rank": 0.001255988373845966, "text": "want"}
+{"count": 2, "ids": [19], "pos": "nn", "rank": 0.001243849406550594, "text": "process"}
+{"count": 1, "ids": [241], "pos": "nn", "rank": 0.0012355509292315203, "text": "syrup"}
+{"count": 3, "ids": [22], "pos": "nn", "rank": 0.001225786341298218, "text": "spirit"}
+{"count": 2, "ids": [153], "pos": "vbd", "rank": 0.0012248876259223344, "text": "felt"}
+{"count": 1, "ids": [408, 59], "pos": "np", "rank": 0.0012178164043206356, "text": "fan-favorite character"}
+{"count": 1, "ids": [114], "pos": "nn", "rank": 0.0012123187331995453, "text": "cable"}
+{"count": 2, "ids": [433], "pos": "nn", "rank": 0.0012082265787667823, "text": "space"}
+{"count": 2, "ids": [530], "pos": "vbg", "rank": 0.0012001021471638432, "text": "navigating"}
+{"count": 1, "ids": [345], "pos": "nn", "rank": 0.0011972052973824327, "text": "front"}
+{"count": 1, "ids": [161], "pos": "nn", "rank": 0.0011956746758957561, "text": "community"}
+{"count": 2, "ids": [520], "pos": "vbp", "rank": 0.0011937708910484018, "text": "mean"}
+{"count": 2, "ids": [6], "pos": "np", "rank": 0.0011927643956140877, "text": "episodes"}
+{"count": 1, "ids": [448], "pos": "vbp", "rank": 0.0011872006456235867, "text": "say"}
+{"count": 6, "ids": [52], "pos": "vbd", "rank": 0.0011859383472374867, "text": "changed"}
+{"count": 1, "ids": [290], "pos": "vbg", "rank": 0.001185736346880414, "text": "enduring"}
+{"count": 1, "ids": [419], "pos": "vbn", "rank": 0.0011832062654646904, "text": "divided"}
+{"count": 1, "ids": [144], "pos": "vb", "rank": 0.0011763208567427046, "text": "explore"}
+{"count": 1, "ids": [307], "pos": "nn", "rank": 0.0011751180699330938, "text": "recorder"}
+{"count": 1, "ids": [65], "pos": "nns", "rank": 0.0011631690854133918, "text": "families"}
+{"count": 2, "ids": [237], "pos": "vbd", "rank": 0.0011571035616676883, "text": "beat"}
+{"count": 1, "ids": [339], "pos": "nns", "rank": 0.0011530189447645186, "text": "failings"}
+{"count": 2, "ids": [337], "pos": "nn", "rank": 0.0011521009334042635, "text": "reveal"}
+{"count": 1, "ids": [331], "pos": "nn", "rank": 0.0011423851163824754, "text": "darkness"}
+{"count": 1, "ids": [171], "pos": "nn", "rank": 0.0011379985123806727, "text": "everything"}
+{"count": 1, "ids": [239], "pos": "nn", "rank": 0.001137464159485842, "text": "sensation"}
+{"count": 1, "ids": [240], "pos": "nn", "rank": 0.001129184525021801, "text": "maple"}
+{"count": 1, "ids": [47], "pos": "vbn", "rank": 0.0011190582571268903, "text": "carried"}
+{"count": 2, "ids": [50], "pos": "nn", "rank": 0.0011172692627855936, "text": "air"}
+{"count": 1, "ids": [313], "pos": "vbn", "rank": 0.001116451830817556, "text": "punctured"}
+{"count": 3, "ids": [36], "pos": "nns", "rank": 0.0011140102633887404, "text": "years"}
+{"count": 1, "ids": [134], "pos": "nns", "rank": 0.0011074274212341142, "text": "expectations"}
+{"count": 1, "ids": [63], "pos": "nns", "rank": 0.0011010993509942364, "text": "jobs"}
+{"count": 1, "ids": [112], "pos": "nn", "rank": 0.0010887414582082951, "text": "hit"}
+{"count": 1, "ids": [201], "pos": "nn", "rank": 0.001078749631699953, "text": "fun"}
+{"count": 4, "ids": [70], "pos": "vbg", "rank": 0.001075486775827285, "text": "leaving"}
+{"count": 1, "ids": [289], "pos": "nn", "rank": 0.0010745072704057548, "text": "ground"}
+{"count": 1, "ids": [517, 513], "pos": "np", "rank": 0.0010721262679734237, "text": "good reason"}
+{"count": 1, "ids": [478], "pos": "vbg", "rank": 0.0010719346471110536, "text": "wandering"}
+{"count": 1, "ids": [357], "pos": "nn", "rank": 0.0010705034370707943, "text": "object"}
+{"count": 1, "ids": [16, 214], "pos": "np", "rank": 0.0010639972273957185, "text": "tv movie"}
+{"count": 1, "ids": [67], "pos": "nns", "rank": 0.0010474236146621563, "text": "obsessions"}
+{"count": 1, "ids": [286], "pos": "vbn", "rank": 0.0010392462003328477, "text": "shot"}
+{"count": 1, "ids": [104], "pos": "vbg", "rank": 0.0010323875326433537, "text": "mutating"}
+{"count": 1, "ids": [124], "pos": "nn", "rank": 0.0010297513812083674, "text": "parallel"}
+{"count": 1, "ids": [75], "pos": "np", "rank": 0.001014866579336178, "text": "lodge"}
+{"count": 2, "ids": [310], "pos": "nns", "rank": 0.0010137134330786737, "text": "events"}
+{"count": 1, "ids": [266], "pos": "nns", "rank": 0.0010071384804982812, "text": "adventures"}
+{"count": 1, "ids": [110], "pos": "vbn", "rank": 0.0010067625484451751, "text": "progressed"}
+{"count": 2, "ids": [188], "pos": "np", "rank": 0.0010056345606328549, "text": "abc"}
+{"count": 1, "ids": [260, 261], "pos": "np", "rank": 0.0010056345606328549, "text": "supernatural side"}
+{"count": 1, "ids": [453, 454], "pos": "np", "rank": 0.0010056345606328549, "text": "slot machines"}
+{"count": 1, "ids": [206], "pos": "nnp", "rank": 0.001002215298687077, "text": "mark"}
+{"count": 3, "ids": [395], "pos": "vbd", "rank": 0.0009974651175060805, "text": "claimed"}
+{"count": 1, "ids": [311], "pos": "vbn", "rank": 0.0009957454146018343, "text": "drawn"}
+{"count": 1, "ids": [95], "pos": "nns", "rank": 0.0009954039593611437, "text": "methods"}
+{"count": 1, "ids": [109, 518], "pos": "np", "rank": 0.0009887621611723639, "text": "same sort"}
+{"count": 1, "ids": [77, 394], "pos": "np", "rank": 0.0009882985513333116, "text": "incomprehensible aspects"}
+{"count": 1, "ids": [297], "pos": "nn", "rank": 0.0009871524776623346, "text": "giant"}
+{"count": 1, "ids": [469], "pos": "vb", "rank": 0.0009862765972422506, "text": "pad"}
+{"count": 1, "ids": [0, 88, 7], "pos": "np", "rank": 0.0009807158656652154, "text": "the third season"}
+{"count": 1, "ids": [184], "pos": "nns", "rank": 0.0009795951565346828, "text": "herrings"}
+{"count": 1, "ids": [315], "pos": "np", "rank": 0.000970973255989396, "text": "moments"}
+{"count": 3, "ids": [73], "pos": "vbd", "rank": 0.0009612039165820221, "text": "knew"}
+{"count": 1, "ids": [263], "pos": "vbg", "rank": 0.0009591374694353754, "text": "sending"}
+{"count": 1, "ids": [490], "pos": "vbn", "rank": 0.0009510513523669487, "text": "constructed"}
+{"count": 1, "ids": [348], "pos": "nn", "rank": 0.0009488827140366764, "text": "place"}
+{"count": 1, "ids": [288], "pos": "vbg", "rank": 0.0009440360638418167, "text": "bleeding"}
+{"count": 1, "ids": [417], "pos": "vb", "rank": 0.0009410712224570241, "text": "wound"}
+{"count": 1, "ids": [477], "pos": "nn", "rank": 0.0009405602115053008, "text": "position"}
+{"count": 2, "ids": [200], "pos": "vbp", "rank": 0.0009227193952579493, "text": "find"}
+{"count": 1, "ids": [224], "pos": "vbd", "rank": 0.0009198987425826786, "text": "threw"}
+{"count": 1, "ids": [276], "pos": "nn", "rank": 0.0009183453396955259, "text": "dream"}
+{"count": 1, "ids": [422], "pos": "vbg", "rank": 0.0009183453396955259, "text": "facing"}
+{"count": 1, "ids": [111], "pos": "nn", "rank": 0.000915307952180776, "text": "era-defining"}
+{"count": 1, "ids": [207], "pos": "nnp", "rank": 0.0009095149287182942, "text": "frost"}
+{"count": 2, "ids": [335], "pos": "np", "rank": 0.0009081607954174066, "text": "earle"}
+{"count": 1, "ids": [326], "pos": "nn", "rank": 0.0009055212096017301, "text": "hostage"}
+{"count": 1, "ids": [190], "pos": "vbn", "rank": 0.0008981993300544384, "text": "distracted"}
+{"count": 1, "ids": [379], "pos": "vbg", "rank": 0.0008981993300544384, "text": "demoralizing"}
+{"count": 1, "ids": [397], "pos": "vbg", "rank": 0.0008981993300544384, "text": "pulling"}
+{"count": 2, "ids": [316], "pos": "vbg", "rank": 0.0008969795278549512, "text": "bouncing"}
+{"count": 1, "ids": [103], "pos": "nn", "rank": 0.0008948039629090991, "text": "vision"}
+{"count": 1, "ids": [209, 6], "pos": "np", "rank": 0.0008945732967105657, "text": "early episodes"}
+{"count": 1, "ids": [524], "pos": "nn", "rank": 0.0008861683841111639, "text": "television"}
+{"count": 1, "ids": [222], "pos": "nns", "rank": 0.0008808407453891779, "text": "media"}
+{"count": 1, "ids": [238], "pos": "nn", "rank": 0.0008792077381341208, "text": "taste"}
+{"count": 1, "ids": [362], "pos": "nn", "rank": 0.000873663316587602, "text": "was.\u2018twin"}
+{"count": 1, "ids": [232], "pos": "nn", "rank": 0.0008730158155753537, "text": "pie"}
+{"count": 1, "ids": [452], "pos": "nnp", "rank": 0.0008686733289638817, "text": "helloooooo"}
+{"count": 1, "ids": [502], "pos": "nn", "rank": 0.0008661518355631595, "text": "vocabulary"}
+{"count": 1, "ids": [388], "pos": "nn", "rank": 0.0008625801514753461, "text": "viewership"}
+{"count": 4, "ids": [250], "pos": "vbn", "rank": 0.0008616035366573521, "text": "lost"}
+{"count": 1, "ids": [430], "pos": "vbg", "rank": 0.0008600108071170366, "text": "talking"}
+{"count": 1, "ids": [225], "pos": "nns", "rank": 0.0008599331056215879, "text": "parties"}
+{"count": 1, "ids": [359], "pos": "np", "rank": 0.0008585688615164173, "text": "cancellation"}
+{"count": 1, "ids": [196], "pos": "nn", "rank": 0.0008555425907765498, "text": "opera"}
+{"count": 1, "ids": [305], "pos": "nn", "rank": 0.0008550741684121805, "text": "voice-activated"}
+{"count": 1, "ids": [439], "pos": "nns", "rank": 0.0008480474564197946, "text": "motives"}
+{"count": 1, "ids": [265], "pos": "nn", "rank": 0.0008477508495256356, "text": "cosplay"}
+{"count": 1, "ids": [341], "pos": "nn", "rank": 0.0008370023399621201, "text": "love"}
+{"count": 1, "ids": [5], "pos": "nns", "rank": 0.0008332237341899933, "text": "spoilers"}
+{"count": 1, "ids": [192], "pos": "vbd", "rank": 0.00083198362349122, "text": "unfolded"}
+{"count": 1, "ids": [547], "pos": "vb", "rank": 0.000827507431651748, "text": "stop-motion"}
+{"count": 2, "ids": [92], "pos": "vbg", "rank": 0.0008265987989470238, "text": "waiting"}
+{"count": 1, "ids": [474], "pos": "nn", "rank": 0.0008187316573947989, "text": "sea"}
+{"count": 2, "ids": [336], "pos": "nn", "rank": 0.000817761806689423, "text": "chaos"}
+{"count": 2, "ids": [74], "pos": "nnp", "rank": 0.0008176720140608465, "text": "black"}
+{"count": 1, "ids": [209, 105], "pos": "np", "rank": 0.0008165366721246183, "text": "early tone"}
+{"count": 1, "ids": [511], "pos": "vbz", "rank": 0.0008138133231211632, "text": "hears"}
+{"count": 1, "ids": [475], "pos": "vb", "rank": 0.0008136439245423214, "text": "pick"}
+{"count": 1, "ids": [480], "pos": "vb", "rank": 0.0008136439245423214, "text": "catch"}
+{"count": 1, "ids": [467], "pos": "np", "rank": 0.0008123791686188954, "text": "slot-fillers"}
+{"count": 1, "ids": [492], "pos": "nn", "rank": 0.0008111907531272527, "text": "part"}
+{"count": 1, "ids": [442], "pos": "nn", "rank": 0.0008066825044860428, "text": "socket"}
+{"count": 1, "ids": [230], "pos": "nns", "rank": 0.0008021892976852085, "text": "doughnuts"}
+{"count": 1, "ids": [253], "pos": "nn", "rank": 0.0008001328099963721, "text": "enthusiasm"}
+{"count": 1, "ids": [259], "pos": "vbd", "rank": 0.0007989131643893446, "text": "surfaced"}
+{"count": 1, "ids": [107], "pos": "nn", "rank": 0.0007980822786640909, "text": "format"}
+{"count": 1, "ids": [369], "pos": "nn", "rank": 0.0007965692963795479, "text": "run"}
+{"count": 1, "ids": [497], "pos": "nnp", "rank": 0.0007954097859977023, "text": "maclachlan"}
+{"count": 1, "ids": [334], "pos": "nnp", "rank": 0.0007951529866418729, "text": "windom"}
+{"count": 1, "ids": [427], "pos": "nn", "rank": 0.0007922398051151222, "text": "system"}
+{"count": 2, "ids": [262], "pos": "vbd", "rank": 0.0007910757220419104, "text": "stopped"}
+{"count": 1, "ids": [287], "pos": "vbd", "rank": 0.0007910757220419104, "text": "opened"}
+{"count": 1, "ids": [391], "pos": "vbd", "rank": 0.0007910757220419104, "text": "developed"}
+{"count": 2, "ids": [98], "pos": "vbg", "rank": 0.0007887894761099624, "text": "interpreting"}
+{"count": 1, "ids": [540], "pos": "np", "rank": 0.0007878989132162822, "text": "agency"}
+{"count": 1, "ids": [416], "pos": "nns", "rank": 0.0007872904339607111, "text": "surprises"}
+{"count": 1, "ids": [88, 7], "pos": "np", "rank": 0.0007845726925321722, "text": "third season"}
+{"count": 1, "ids": [508], "pos": "vbg", "rank": 0.0007829217532025536, "text": "glowing"}
+{"count": 1, "ids": [531], "pos": "nns", "rank": 0.0007820902876888657, "text": "surroundings"}
+{"count": 1, "ids": [407], "pos": "nn", "rank": 0.0007780203394868342, "text": "one"}
+{"count": 1, "ids": [203], "pos": "nn", "rank": 0.0007773102521708388, "text": "texture"}
+{"count": 1, "ids": [228], "pos": "vbd", "rank": 0.0007772984453306773, "text": "rhapsodized"}
+{"count": 2, "ids": [10, 11], "pos": "np", "rank": 0.000774606354584384, "text": "may 21st"}
+{"count": 1, "ids": [0, 41], "pos": "np", "rank": 0.000774606354584384, "text": "that decades"}
+{"count": 1, "ids": [83, 84], "pos": "np", "rank": 0.000774606354584384, "text": "other words"}
+{"count": 1, "ids": [156, 157], "pos": "np", "rank": 0.000774606354584384, "text": "perky outsider"}
+{"count": 1, "ids": [219, 220], "pos": "np", "rank": 0.000774606354584384, "text": "lifestyle pieces"}
+{"count": 2, "ids": [323, 324], "pos": "np", "rank": 0.000774606354584384, "text": "jean renault"}
+{"count": 1, "ids": [346, 347], "pos": "np", "rank": 0.000774606354584384, "text": "murderous monster"}
+{"count": 1, "ids": [470, 471], "pos": "np", "rank": 0.000774606354584384, "text": "ongoing program"}
+{"count": 1, "ids": [546], "pos": "nns", "rank": 0.0007684074388681867, "text": "boxes"}
+{"count": 1, "ids": [533], "pos": "nn", "rank": 0.0007631760456362826, "text": "wonder"}
+{"count": 1, "ids": [472], "pos": "nn", "rank": 0.000762300908644364, "text": "mastermind"}
+{"count": 1, "ids": [55], "pos": "nns", "rank": 0.0007613788558871816, "text": "members"}
+{"count": 1, "ids": [504], "pos": "vbn", "rank": 0.0007609675055139988, "text": "shaped"}
+{"count": 1, "ids": [319], "pos": "vbp", "rank": 0.0007470646677473018, "text": "chasten"}
+{"count": 1, "ids": [79], "pos": "vbp", "rank": 0.000739423493147841, "text": "behave"}
+{"count": 1, "ids": [93], "pos": "nns", "rank": 0.0007321270301516374, "text": "cliffhangers"}
+{"count": 1, "ids": [377], "pos": "nns", "rank": 0.0007321270301516374, "text": "fans"}
+{"count": 1, "ids": [285], "pos": "nn", "rank": 0.0007310105564877356, "text": "revelation"}
+{"count": 1, "ids": [312], "pos": "nn", "rank": 0.0007304192264971853, "text": "perversity"}
+{"count": 1, "ids": [410], "pos": "nn", "rank": 0.0007304192264971853, "text": "view"}
+{"count": 1, "ids": [496], "pos": "nnp", "rank": 0.0007244514750476204, "text": "kyle"}
+{"count": 2, "ids": [101], "pos": "vbg", "rank": 0.0007232649507503479, "text": "stumbling"}
+{"count": 1, "ids": [485], "pos": "nn", "rank": 0.000722510550420025, "text": "understanding"}
+{"count": 1, "ids": [158], "pos": "vbg", "rank": 0.000716509477065355, "text": "walking"}
+{"count": 1, "ids": [221], "pos": "vbn", "rank": 0.000716509477065355, "text": "proliferated"}
+{"count": 1, "ids": [361], "pos": "vbn", "rank": 0.0007083234813856002, "text": "abandoned"}
+{"count": 1, "ids": [451], "pos": "nns", "rank": 0.0007017491555167052, "text": "strangers"}
+{"count": 2, "ids": [136], "pos": "nns", "rank": 0.000701178649166899, "text": "1990s"}
+{"count": 1, "ids": [501], "pos": "nn", "rank": 0.0006991734677658119, "text": "dozen-word"}
+{"count": 1, "ids": [538], "pos": "nn", "rank": 0.0006991734677658119, "text": "conundrum"}
+{"count": 1, "ids": [248], "pos": "nn", "rank": 0.0006991635161026733, "text": "himas"}
+{"count": 2, "ids": [209, 210], "pos": "np", "rank": 0.0006985681572894561, "text": "early days"}
+{"count": 1, "ids": [380, 386], "pos": "np", "rank": 0.0006975969525682271, "text": "ratings drop"}
+{"count": 1, "ids": [387], "pos": "nn", "rank": 0.0006956886280042784, "text": "feedback"}
+{"count": 1, "ids": [462], "pos": "nn", "rank": 0.0006956886280042784, "text": "reassurance"}
+{"count": 1, "ids": [127], "pos": "nn", "rank": 0.0006909476209336913, "text": "kind"}
+{"count": 2, "ids": [390], "pos": "vbd", "rank": 0.0006905586770548479, "text": "rejected"}
+{"count": 1, "ids": [175], "pos": "vb", "rank": 0.0006876487371679467, "text": "tackle"}
+{"count": 1, "ids": [329], "pos": "nn", "rank": 0.0006867775278453708, "text": "cause"}
+{"count": 1, "ids": [304], "pos": "nn", "rank": 0.0006862343937616766, "text": "conversation"}
+{"count": 2, "ids": [506], "pos": "nn", "rank": 0.0006845017763276971, "text": "anything"}
+{"count": 1, "ids": [458], "pos": "vb", "rank": 0.0006844845579397933, "text": "function"}
+{"count": 1, "ids": [215], "pos": "vb", "rank": 0.0006794474713071917, "text": "appreciate"}
+{"count": 1, "ids": [212], "pos": "nn", "rank": 0.0006788605429797987, "text": "fad"}
+{"count": 1, "ids": [94], "pos": "nn", "rank": 0.0006757921696030288, "text": "storytelling"}
+{"count": 1, "ids": [519], "pos": "vb", "rank": 0.0006757283776997413, "text": "recapture"}
+{"count": 1, "ids": [18], "pos": "nn", "rank": 0.0006702263232119893, "text": "prophecy"}
+{"count": 1, "ids": [340], "pos": "nn", "rank": 0.0006647102740926625, "text": "standing"}
+{"count": 2, "ids": [71], "pos": "vbn", "rank": 0.0006637611781225388, "text": "trapped"}
+{"count": 2, "ids": [484], "pos": "nn", "rank": 0.0006583503717440255, "text": "basis"}
+{"count": 1, "ids": [7], "pos": "np", "rank": 0.0006538105771101435, "text": "season"}
+{"count": 1, "ids": [252], "pos": "nnp", "rank": 0.0006472297793269417, "text": "scout"}
+{"count": 1, "ids": [160], "pos": "nn", "rank": 0.0006462299842711592, "text": "mountain"}
+{"count": 1, "ids": [223], "pos": "vbg", "rank": 0.0006462299842711592, "text": "tracking"}
+{"count": 1, "ids": [275], "pos": "vbg", "rank": 0.0006441531248757285, "text": "visiting"}
+{"count": 1, "ids": [306], "pos": "nn", "rank": 0.0006351652603082715, "text": "tape"}
+{"count": 1, "ids": [435], "pos": "vbn", "rank": 0.0006325773947733771, "text": "rescued"}
+{"count": 2, "ids": [466], "pos": "nn", "rank": 0.0006324049819135415, "text": "work"}
+{"count": 1, "ids": [328], "pos": "vbg", "rank": 0.0006304414113438461, "text": "suggesting"}
+{"count": 1, "ids": [544], "pos": "nn", "rank": 0.0006292603827923143, "text": "haze"}
+{"count": 1, "ids": [21], "pos": "nn", "rank": 0.0006287541167590124, "text": "finale"}
+{"count": 1, "ids": [383], "pos": "nn", "rank": 0.0006287541167590124, "text": "premiere"}
+{"count": 1, "ids": [229], "pos": "nns", "rank": 0.0006241672278131119, "text": "stacks"}
+{"count": 1, "ids": [333], "pos": "nn", "rank": 0.0006195592937686351, "text": "partner"}
+{"count": 1, "ids": [106], "pos": "nn", "rank": 0.0006190141162683955, "text": "budget"}
+{"count": 1, "ids": [249], "pos": "vbd", "rank": 0.0006190141162683955, "text": "darkened"}
+{"count": 1, "ids": [330], "pos": "vbg", "rank": 0.0006176991414370857, "text": "growing"}
+{"count": 1, "ids": [409], "pos": "nn", "rank": 0.0006171400126973146, "text": "voice"}
+{"count": 1, "ids": [437], "pos": "nn", "rank": 0.0006153520269237979, "text": "woman"}
+{"count": 1, "ids": [170], "pos": "nn", "rank": 0.000614978084846787, "text": "vividness"}
+{"count": 1, "ids": [231], "pos": "nn", "rank": 0.0006126415148624995, "text": "cherry"}
+{"count": 1, "ids": [412], "pos": "nn", "rank": 0.0006067015298740053, "text": "freedom"}
+{"count": 1, "ids": [195], "pos": "nn", "rank": 0.0006004148698014721, "text": "soap"}
+{"count": 1, "ids": [384], "pos": "vbd", "rank": 0.0005980675083121405, "text": "killed"}
+{"count": 2, "ids": [89], "pos": "vbd", "rank": 0.0005956775294594471, "text": "began"}
+{"count": 1, "ids": [251], "pos": "nnp", "rank": 0.0005952403564588139, "text": "boy"}
+{"count": 1, "ids": [534], "pos": "nn", "rank": 0.0005840844978428506, "text": "mode"}
+{"count": 1, "ids": [399], "pos": "vbn", "rank": 0.0005786130631159466, "text": "muddled"}
+{"count": 1, "ids": [532], "pos": "nn", "rank": 0.0005778823262523017, "text": "humor"}
+{"count": 1, "ids": [414], "pos": "vbd", "rank": 0.0005745049940558281, "text": "flocked"}
+{"count": 1, "ids": [486], "pos": "nn", "rank": 0.0005745049940558281, "text": "avatar"}
+{"count": 1, "ids": [20, 7], "pos": "np", "rank": 0.0005604090660944087, "text": "second season"}
+{"count": 1, "ids": [318], "pos": "vbp", "rank": 0.0005590603364620695, "text": "exhaust"}
+{"count": 1, "ids": [123], "pos": "vbd", "rank": 0.0005555434750881514, "text": "happened"}
+{"count": 1, "ids": [325], "pos": "vbd", "rank": 0.0005519063271787736, "text": "held"}
+{"count": 1, "ids": [37], "pos": "np", "rank": 0.0005435781485359134, "text": "clip"}
+{"count": 1, "ids": [51], "pos": "np", "rank": 0.0005435781485359134, "text": "lot"}
+{"count": 1, "ids": [199], "pos": "np", "rank": 0.0005435781485359134, "text": "coop"}
+{"count": 1, "ids": [213], "pos": "np", "rank": 0.0005435781485359134, "text": "pilot"}
+{"count": 1, "ids": [236], "pos": "np", "rank": 0.0005435781485359134, "text": "nothing"}
+{"count": 1, "ids": [380], "pos": "np", "rank": 0.0005435781485359134, "text": "ratings"}
+{"count": 2, "ids": [491], "pos": "np", "rank": 0.0005435781485359134, "text": "bob"}
+{"count": 1, "ids": [539], "pos": "np", "rank": 0.0005435781485359134, "text": "humanity"}
+{"count": 1, "ids": [545], "pos": "nn", "rank": 0.0005392357893769997, "text": "glass"}
+{"count": 2, "ids": [513], "pos": "nn", "rank": 0.0005360631339867118, "text": "reason"}
+{"count": 1, "ids": [226], "pos": "vbg", "rank": 0.000521814907230207, "text": "eating"}
+{"count": 1, "ids": [421], "pos": "nns", "rank": 0.0005203818204608552, "text": "launches"}
+{"count": 1, "ids": [308], "pos": "vbd", "rank": 0.0005138627579453061, "text": "suffered"}
+{"count": 1, "ids": [360], "pos": "nn", "rank": 0.0005138627579453061, "text": "rudderless"}
+{"count": 1, "ids": [38], "pos": "vbz", "rank": 0.0005028172803164274, "text": "plays"}
+{"count": 2, "ids": [150], "pos": "nns", "rank": 0.0005028172803164274, "text": "tools"}
+{"count": 2, "ids": [186], "pos": "nn", "rank": 0.0005028172803164274, "text": "solution"}
+{"count": 1, "ids": [261], "pos": "nn", "rank": 0.0005028172803164274, "text": "side"}
+{"count": 1, "ids": [284], "pos": "vb", "rank": 0.0005028172803164274, "text": "roll"}
+{"count": 1, "ids": [382], "pos": "nns", "rank": 0.0005028172803164274, "text": "milestones"}
+{"count": 1, "ids": [454], "pos": "nns", "rank": 0.0005028172803164274, "text": "machines"}
+{"count": 1, "ids": [494], "pos": "nn", "rank": 0.0005028172803164274, "text": "identity"}
+{"count": 1, "ids": [500], "pos": "nn", "rank": 0.0005028172803164274, "text": "head"}
+{"count": 1, "ids": [542], "pos": "nns", "rank": 0.0005028172803164274, "text": "onscreen"}
+{"count": 1, "ids": [514], "pos": "vb", "rank": 0.0004996137753924817, "text": "believe"}
+{"count": 1, "ids": [518], "pos": "nn", "rank": 0.0004943810805861819, "text": "sort"}
+{"count": 1, "ids": [394], "pos": "nns", "rank": 0.0004941492756666558, "text": "aspects"}
+{"count": 1, "ids": [129], "pos": "vbp", "rank": 0.0004916929790613323, "text": "mediate"}
+{"count": 1, "ids": [7, 0], "pos": "np", "rank": 0.0004903579328326077, "text": "season 2"}
+{"count": 1, "ids": [174], "pos": "nn", "rank": 0.0004891459879752016, "text": "ability"}
+{"count": 1, "ids": [57], "pos": "vbn", "rank": 0.00048747590067122154, "text": "aged"}
+{"count": 1, "ids": [126], "pos": "vb", "rank": 0.00048747590067122154, "text": "learn"}
+{"count": 1, "ids": [522], "pos": "vbn", "rank": 0.00048747590067122154, "text": "appeared"}
+{"count": 1, "ids": [108], "pos": "vb", "rank": 0.000486073556322091, "text": "recognize"}
+{"count": 1, "ids": [163], "pos": "vbn", "rank": 0.000485486627994698, "text": "entranced"}
+{"count": 1, "ids": [189], "pos": "vbn", "rank": 0.000485486627994698, "text": "seduced"}
+{"count": 1, "ids": [216], "pos": "vbg", "rank": 0.000485486627994698, "text": "emulating"}
+{"count": 1, "ids": [317], "pos": "vbn", "rank": 0.000485486627994698, "text": "outnumbered"}
+{"count": 1, "ids": [378], "pos": "vbg", "rank": 0.000485486627994698, "text": "wearying"}
+{"count": 1, "ids": [396], "pos": "vbn", "rank": 0.000485486627994698, "text": "blamed"}
+{"count": 1, "ids": [503], "pos": "nns", "rank": 0.000485486627994698, "text": "stakes"}
+{"count": 1, "ids": [528], "pos": "nn", "rank": 0.000485486627994698, "text": "sense"}
+{"count": 1, "ids": [151], "pos": "vb", "rank": 0.00048548127101688424, "text": "translate"}
+{"count": 1, "ids": [457], "pos": "vbz", "rank": 0.00048548127101688424, "text": "needs"}
+{"count": 2, "ids": [179], "pos": "vbz", "rank": 0.0004836450252190217, "text": "thinks"}
+{"count": 1, "ids": [398], "pos": "vbd", "rank": 0.0004836450252190217, "text": "withdrew"}
+{"count": 1, "ids": [523], "pos": "nn", "rank": 0.0004790117340148166, "text": "network"}
+{"count": 2, "ids": [155], "pos": "vbd", "rank": 0.00047307997411862946, "text": "started"}
+{"count": 1, "ids": [402], "pos": "nnp", "rank": 0.00047307997411862946, "text": "\u2019s"}
+{"count": 1, "ids": [17], "pos": "vbd", "rank": 0.0004688042092454935, "text": "fulfilled"}
+{"count": 1, "ids": [23], "pos": "nn", "rank": 0.0004455500295552971, "text": "series-defining"}
+{"count": 1, "ids": [72], "pos": "nn", "rank": 0.0004455500295552971, "text": "domain"}
+{"count": 1, "ids": [274], "pos": "nn", "rank": 0.000438283923585706, "text": "stride"}
+{"count": 1, "ids": [214], "pos": "nn", "rank": 0.00043616465833194013, "text": "movie"}
+{"count": 1, "ids": [425], "pos": "nn", "rank": 0.00043312281420832346, "text": "human-sized"}
+{"count": 1, "ids": [48], "pos": "vbd", "rank": 0.00042928443075820866, "text": "canceled"}
+{"count": 1, "ids": [86], "pos": "nn", "rank": 0.00042054903096247644, "text": "anyone"}
+{"count": 1, "ids": [432], "pos": "vbn", "rank": 0.00042054903096247644, "text": "ejected"}
+{"count": 1, "ids": [440], "pos": "vbn", "rank": 0.00042054903096247644, "text": "fed"}
+{"count": 1, "ids": [465], "pos": "vbn", "rank": 0.00042054903096247644, "text": "intended"}
+{"count": 1, "ids": [488], "pos": "vbn", "rank": 0.00042054903096247644, "text": "spent"}
+{"count": 1, "ids": [527], "pos": "vbg", "rank": 0.00042054903096247644, "text": "missing"}
+{"count": 1, "ids": [54], "pos": "nn", "rank": 0.0004114386519272156, "text": "cast"}
+{"count": 1, "ids": [272], "pos": "vbg", "rank": 0.0004060145395612978, "text": "confronting"}
+{"count": 1, "ids": [411], "pos": "nn", "rank": 0.0003939494566081411, "text": "joy"}
+{"count": 1, "ids": [11], "pos": "nn", "rank": 0.000387303177292192, "text": "21st"}
+{"count": 1, "ids": [41], "pos": "np", "rank": 0.000387303177292192, "text": "decades"}
+{"count": 1, "ids": [84], "pos": "nns", "rank": 0.000387303177292192, "text": "words"}
+{"count": 1, "ids": [157], "pos": "nn", "rank": 0.000387303177292192, "text": "outsider"}
+{"count": 1, "ids": [220], "pos": "nns", "rank": 0.000387303177292192, "text": "pieces"}
+{"count": 1, "ids": [324], "pos": "nnp", "rank": 0.000387303177292192, "text": "renault"}
+{"count": 1, "ids": [347], "pos": "nn", "rank": 0.000387303177292192, "text": "monster"}
+{"count": 1, "ids": [446], "pos": "nn", "rank": 0.000387303177292192, "text": "daze"}
+{"count": 1, "ids": [471], "pos": "nn", "rank": 0.000387303177292192, "text": "program"}
+{"count": 2, "ids": [210], "pos": "nns", "rank": 0.0003707599621893394, "text": "days"}
+{"count": 1, "ids": [386], "pos": "nn", "rank": 0.00034879847628411354, "text": "drop"}
+{"count": 8, "ids": [0], "pos": "np", "rank": 0.0002804714596667596, "text": "1990"}
+{"count": 1, "ids": [10], "pos": "nnp", "rank": 0.0002717890742679567, "text": "may"}
+{"count": 1, "ids": [40], "pos": "nn", "rank": 0.0002717890742679567, "text": "reminder"}
+{"count": 1, "ids": [56], "pos": "nn", "rank": 0.0002717890742679567, "text": "board"}
+{"count": 1, "ids": [68], "pos": "nn", "rank": 0.0002717890742679567, "text": "opening"}
+{"count": 2, "ids": [76], "pos": "nn", "rank": 0.0002717890742679567, "text": "mercy"}
+{"count": 1, "ids": [154], "pos": "vb", "rank": 0.0002717890742679567, "text": "consider"}
+{"count": 4, "ids": [187], "pos": "nnp", "rank": 0.0002717890742679567, "text": "image"}
+{"count": 1, "ids": [219], "pos": "nn", "rank": 0.0002717890742679567, "text": "lifestyle"}
+{"count": 1, "ids": [244], "pos": "vbz", "rank": 0.0002717890742679567, "text": "chirps"}
+{"count": 1, "ids": [279], "pos": "vbd", "rank": 0.0002717890742679567, "text": "remembered"}
+{"count": 1, "ids": [323], "pos": "nnp", "rank": 0.0002717890742679567, "text": "jean"}
+{"count": 1, "ids": [381], "pos": "vbg", "rank": 0.0002717890742679567, "text": "peaking"}
+{"count": 1, "ids": [385], "pos": "vbg", "rank": 0.0002717890742679567, "text": "plummeting"}
+{"count": 1, "ids": [408], "pos": "nn", "rank": 0.0002717890742679567, "text": "fan-favorite"}
+{"count": 1, "ids": [413], "pos": "nn", "rank": 0.0002717890742679567, "text": "capacity"}
+{"count": 1, "ids": [445], "pos": "vbn", "rank": 0.0002717890742679567, "text": "lobotomized"}
+{"count": 1, "ids": [449], "pos": "vbg", "rank": 0.0002717890742679567, "text": "bellowing"}
+{"count": 1, "ids": [453], "pos": "nn", "rank": 0.0002717890742679567, "text": "slot"}
+{"count": 1, "ids": [456], "pos": "vbg", "rank": 0.0002717890742679567, "text": "regaining"}
+{"count": 1, "ids": [459], "pos": "nn", "rank": 0.0002717890742679567, "text": "knowledge"}
+{"count": 1, "ids": [479], "pos": "vbn", "rank": 0.0002717890742679567, "text": "revived"}
+{"count": 1, "ids": [482], "pos": "nn", "rank": 0.0002717890742679567, "text": "problem"}
+{"count": 1, "ids": [493], "pos": "vbg", "rank": 0.0002717890742679567, "text": "stealing"}
+{"count": 1, "ids": [499], "pos": "nn", "rank": 0.0002717890742679567, "text": "tie"}
+{"count": 1, "ids": [512], "pos": "nn", "rank": 0.0002717890742679567, "text": "ride.we"}
+{"count": 1, "ids": [515], "pos": "nn", "rank": 0.0002717890742679567, "text": "brash"}
+{"count": 1, "ids": [535], "pos": "vb", "rank": 0.0002717890742679567, "text": "participate"}
+{"count": 1, "ids": [536], "pos": "vbg", "rank": 0.0002717890742679567, "text": "acting"}
+{"count": 1, "ids": [541], "pos": "vbz", "rank": 0.0002717890742679567, "text": "represents"}

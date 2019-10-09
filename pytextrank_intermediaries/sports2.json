@@ -1,0 +1,341 @@
+{"count": 45, "ids": [46], "pos": "vbp", "rank": 0.02860970599299346, "text": "are"}
+{"count": 5, "ids": [606], "pos": "np", "rank": 0.024202801387277244, "text": "golf"}
+{"count": 2, "ids": [583, 584], "pos": "np", "rank": 0.018011072116909877, "text": "steph curry"}
+{"count": 3, "ids": [581], "pos": "np", "rank": 0.016327582146310863, "text": "tour"}
+{"count": 1, "ids": [505, 563], "pos": "np", "rank": 0.01624478382376518, "text": "capable player"}
+{"count": 1, "ids": [668, 606], "pos": "np", "rank": 0.012101400693638622, "text": "stage golf"}
+{"count": 1, "ids": [575, 166], "pos": "np", "rank": 0.010325388069115355, "text": "sports people"}
+{"count": 1, "ids": [0, 36], "pos": "np", "rank": 0.009960057245518947, "text": "this year"}
+{"count": 1, "ids": [527], "pos": "np", "rank": 0.009549053998423982, "text": "misses"}
+{"count": 3, "ids": [596, 597], "pos": "np", "rank": 0.009069556017613197, "text": "vanity project"}
+{"count": 16, "ids": [584], "pos": "np", "rank": 0.009005536058454939, "text": "curry"}
+{"count": 1, "ids": [625, 606], "pos": "np", "rank": 0.008664395405824775, "text": "tournament golf"}
+{"count": 1, "ids": [561, 562], "pos": "np", "rank": 0.008445474967128132, "text": "basketball success"}
+{"count": 1, "ids": [594], "pos": "np", "rank": 0.008319984559377701, "text": "invitations"}
+{"count": 1, "ids": [580, 581], "pos": "np", "rank": 0.008242445264140943, "text": "webcom tour"}
+{"count": 1, "ids": [617, 581], "pos": "np", "rank": 0.008163791073155431, "text": "pga tour"}
+{"count": 6, "ids": [563], "pos": "nns", "rank": 0.00812239191188259, "text": "players"}
+{"count": 1, "ids": [553, 563], "pos": "np", "rank": 0.00812239191188259, "text": "warriors player"}
+{"count": 1, "ids": [699, 606], "pos": "np", "rank": 0.008067600462425748, "text": "professional golf"}
+{"count": 6, "ids": [38], "pos": "vb", "rank": 0.008049918863281309, "text": "play"}
+{"count": 1, "ids": [664, 287], "pos": "np", "rank": 0.00798219204903075, "text": "home open"}
+{"count": 1, "ids": [593], "pos": "np", "rank": 0.007942690274474399, "text": "sponsors"}
+{"count": 8, "ids": [42], "pos": "vbp", "rank": 0.007725762636702228, "text": "have"}
+{"count": 1, "ids": [636], "pos": "np", "rank": 0.007622638620149045, "text": "athletes"}
+{"count": 1, "ids": [762, 781], "pos": "np", "rank": 0.007325678755406584, "text": "ball flight"}
+{"count": 1, "ids": [747, 748], "pos": "np", "rank": 0.006754306207598515, "text": "lee mccoy"}
+{"count": 1, "ids": [83, 563], "pos": "np", "rank": 0.0067275390364941205, "text": "other player"}
+{"count": 1, "ids": [681, 682], "pos": "np", "rank": 0.006578581340094195, "text": "manchester united"}
+{"count": 1, "ids": [623, 572], "pos": "np", "rank": 0.006538698182416515, "text": "best golfers"}
+{"count": 1, "ids": [647, 648, 649], "pos": "np", "rank": 0.0063757946748917846, "text": "fallback career option"}
+{"count": 1, "ids": [720, 721], "pos": "np", "rank": 0.006214720228695437, "text": "golfing brilliance"}
+{"count": 3, "ids": [602], "pos": "nn", "rank": 0.006206046748259782, "text": "chance"}
+{"count": 1, "ids": [632, 584], "pos": "np", "rank": 0.006003690705636626, "text": "presumes curry"}
+{"count": 1, "ids": [753, 754], "pos": "np", "rank": 0.005950197738309719, "text": "high numbers"}
+{"count": 1, "ids": [332, 661, 662, 663], "pos": "np", "rank": 0.00588242908285319, "text": "former south africa cricketer"}
+{"count": 1, "ids": [715], "pos": "np", "rank": 0.005772824698175379, "text": "american"}
+{"count": 1, "ids": [358, 564], "pos": "np", "rank": 0.00574325309101605, "text": "own right"}
+{"count": 1, "ids": [39, 348], "pos": "np", "rank": 0.0057281999989051945, "text": "first place"}
+{"count": 1, "ids": [558, 559], "pos": "np", "rank": 0.0056413285600085, "text": "jordan spieth-inspired"}
+{"count": 1, "ids": [358, 643, 644], "pos": "np", "rank": 0.005561777086996927, "text": "own blue-chip properties"}
+{"count": 1, "ids": [517, 778], "pos": "np", "rank": 0.005553284353032959, "text": "good shots"}
+{"count": 2, "ids": [712, 713, 714], "pos": "np", "rank": 0.0055212046927292585, "text": "babe didrikson zaharias"}
+{"count": 1, "ids": [561, 563], "pos": "np", "rank": 0.00541492794125506, "text": "basketball player"}
+{"count": 2, "ids": [641], "pos": "nn", "rank": 0.005361246811688114, "text": "level"}
+{"count": 1, "ids": [575], "pos": "np", "rank": 0.005162694034557678, "text": "sports"}
+{"count": 1, "ids": [716], "pos": "vbd", "rank": 0.005006027122453757, "text": "proceeded"}
+{"count": 3, "ids": [460], "pos": "vbg", "rank": 0.004987716624974662, "text": "giving"}
+{"count": 1, "ids": [758, 759], "pos": "np", "rank": 0.004980627093352264, "text": "easy environment"}
+{"count": 1, "ids": [36], "pos": "nn", "rank": 0.004980028622759473, "text": "year"}
+{"count": 1, "ids": [688, 689], "pos": "np", "rank": 0.004948105187422418, "text": "recent us"}
+{"count": 1, "ids": [717], "pos": "vb", "rank": 0.004795270987809962, "text": "swat"}
+{"count": 1, "ids": [709, 205], "pos": "np", "rank": 0.004561339042390716, "text": "tough world"}
+{"count": 3, "ids": [596], "pos": "nn", "rank": 0.004534778008806598, "text": "vanity"}
+{"count": 1, "ids": [655, 656], "pos": "np", "rank": 0.0045302420830741165, "text": "rude awakening"}
+{"count": 1, "ids": [730, 584], "pos": "np", "rank": 0.004502768029227469, "text": "suggestion curry"}
+{"count": 8, "ids": [448], "pos": "vbd", "rank": 0.004407660846813596, "text": "said"}
+{"count": 3, "ids": [625], "pos": "nns", "rank": 0.0043321977029123875, "text": "tournaments"}
+{"count": 2, "ids": [520], "pos": "vbz", "rank": 0.004331081809353615, "text": "means"}
+{"count": 1, "ids": [428, 72], "pos": "np", "rank": 0.004317985343631613, "text": "top domain"}
+{"count": 1, "ids": [646], "pos": "np", "rank": 0.004289527091973007, "text": "regard"}
+{"count": 1, "ids": [402], "pos": "np", "rank": 0.0042474552555573876, "text": "\u2019s"}
+{"count": 3, "ids": [561], "pos": "nn", "rank": 0.004222737483564066, "text": "basketball"}
+{"count": 2, "ids": [725], "pos": "nn", "rank": 0.0042065250176566565, "text": "field"}
+{"count": 2, "ids": [580], "pos": "nn", "rank": 0.004121222632070471, "text": "webcom"}
+{"count": 1, "ids": [257, 616, 617, 581], "pos": "np", "rank": 0.004081895536577716, "text": "more lucrative pga tour"}
+{"count": 1, "ids": [332, 685, 563], "pos": "np", "rank": 0.004061195955941295, "text": "former nfl player"}
+{"count": 1, "ids": [287], "pos": "nnp", "rank": 0.003991096024515375, "text": "open"}
+{"count": 2, "ids": [696, 697], "pos": "np", "rank": 0.003924444519968301, "text": "andriy shevchenko"}
+{"count": 1, "ids": [648, 731], "pos": "np", "rank": 0.003896077486335048, "text": "career swap"}
+{"count": 1, "ids": [0, 553, 161, 628], "pos": "np", "rank": 0.0038587625943576017, "text": "the warriors community foundation"}
+{"count": 1, "ids": [715, 636], "pos": "np", "rank": 0.0038113193100745226, "text": "american athlete"}
+{"count": 1, "ids": [466, 744], "pos": "np", "rank": 0.003795280821438448, "text": "work model"}
+{"count": 1, "ids": [626, 627], "pos": "np", "rank": 0.003748465715014713, "text": "charitable footprint"}
+{"count": 1, "ids": [573, 574], "pos": "np", "rank": 0.003710748305963182, "text": "key spot"}
+{"count": 1, "ids": [598], "pos": "vbz", "rank": 0.0036832387867373447, "text": "looks"}
+{"count": 1, "ids": [781], "pos": "nn", "rank": 0.003662839377703292, "text": "flight"}
+{"count": 1, "ids": [193, 407], "pos": "np", "rank": 0.003653542408513954, "text": "strange one"}
+{"count": 1, "ids": [660], "pos": "np", "rank": 0.0036526795652132974, "text": "wath"}
+{"count": 2, "ids": [85], "pos": "vbz", "rank": 0.003646013191176813, "text": "\u2019s"}
+{"count": 1, "ids": [588], "pos": "np", "rank": 0.003597067164859538, "text": "california"}
+{"count": 1, "ids": [694, 695], "pos": "np", "rank": 0.003548848187570919, "text": "ivan lendl"}
+{"count": 2, "ids": [468], "pos": "vbg", "rank": 0.0035372470637037804, "text": "trying"}
+{"count": 1, "ids": [769, 770], "pos": "np", "rank": 0.003526120281904367, "text": "regular backdrop"}
+{"count": 1, "ids": [555, 556, 557], "pos": "np", "rank": 0.003504545141879819, "text": "fierce play-off battle"}
+{"count": 4, "ids": [35], "pos": "vbp", "rank": 0.0034583747020310823, "text": "see"}
+{"count": 3, "ids": [166], "pos": "nns", "rank": 0.0034507909602279297, "text": "people"}
+{"count": 2, "ids": [571], "pos": "vbn", "rank": 0.003447489239344895, "text": "handed"}
+{"count": 1, "ids": [83, 575], "pos": "np", "rank": 0.0034417960230384514, "text": "other sports"}
+{"count": 1, "ids": [603, 604], "pos": "np", "rank": 0.0033820770783217708, "text": "clothing company"}
+{"count": 1, "ids": [667, 648], "pos": "np", "rank": 0.003378308944401781, "text": "cricket career"}
+{"count": 1, "ids": [748], "pos": "nnp", "rank": 0.0033771531037992573, "text": "mccoy"}
+{"count": 1, "ids": [83], "pos": "nns", "rank": 0.0033637695182470602, "text": "others"}
+{"count": 1, "ids": [707], "pos": "np", "rank": 0.003295791556670255, "text": "stars"}
+{"count": 1, "ids": [682], "pos": "nnp", "rank": 0.0032892906700470975, "text": "united"}
+{"count": 1, "ids": [572], "pos": "np", "rank": 0.0032693490912082575, "text": "golfers"}
+{"count": 1, "ids": [710, 581], "pos": "np", "rank": 0.0032655164292621727, "text": "main tours"}
+{"count": 1, "ids": [737], "pos": "vbg", "rank": 0.0032399970938203843, "text": "struggling-player"}
+{"count": 1, "ids": [666, 143], "pos": "np", "rank": 0.003205699400966478, "text": "great times"}
+{"count": 3, "ids": [648], "pos": "nn", "rank": 0.0031878973374458923, "text": "career"}
+{"count": 1, "ids": [689], "pos": "np", "rank": 0.003182597906115554, "text": "us"}
+{"count": 1, "ids": [736], "pos": "nn", "rank": 0.0031770671302784282, "text": "emerging"}
+{"count": 1, "ids": [679], "pos": "nn", "rank": 0.0031480585164894315, "text": "football"}
+{"count": 1, "ids": [100], "pos": "np", "rank": 0.0031421425684675544, "text": "something"}
+{"count": 1, "ids": [779, 780], "pos": "np", "rank": 0.0031421425684675544, "text": "different type"}
+{"count": 1, "ids": [721], "pos": "nn", "rank": 0.0031073601143477183, "text": "brilliance"}
+{"count": 2, "ids": [762], "pos": "nn", "rank": 0.003106102706872078, "text": "ball"}
+{"count": 1, "ids": [732], "pos": "nn", "rank": 0.0030984453113264477, "text": "mind"}
+{"count": 2, "ids": [670], "pos": "nn", "rank": 0.003068141599348197, "text": "passion"}
+{"count": 1, "ids": [590], "pos": "nn", "rank": 0.0030311570905238432, "text": "superstar"}
+{"count": 1, "ids": [562], "pos": "nn", "rank": 0.002985479647847461, "text": "success"}
+{"count": 1, "ids": [767], "pos": "nn", "rank": 0.0029826718389635285, "text": "celebrity"}
+{"count": 1, "ids": [754], "pos": "nns", "rank": 0.0029750988691548594, "text": "numbers"}
+{"count": 1, "ids": [661, 662], "pos": "np", "rank": 0.002963687501175489, "text": "south africa"}
+{"count": 1, "ids": [560], "pos": "nn", "rank": 0.0029377509549246028, "text": "brother"}
+{"count": 1, "ids": [645], "pos": "vbg", "rank": 0.002903299729560395, "text": "shipping"}
+{"count": 3, "ids": [597], "pos": "nn", "rank": 0.0028755364611868076, "text": "project"}
+{"count": 2, "ids": [348], "pos": "nn", "rank": 0.0028640999994525972, "text": "place"}
+{"count": 1, "ids": [624], "pos": "np", "rank": 0.0028461988060950807, "text": "light"}
+{"count": 1, "ids": [559], "pos": "nnp", "rank": 0.00282066428000425, "text": "spieth-inspired"}
+{"count": 2, "ids": [568], "pos": "np", "rank": 0.0027942233059747457, "text": "spieth"}
+{"count": 1, "ids": [644], "pos": "nns", "rank": 0.0027808885434984637, "text": "properties"}
+{"count": 1, "ids": [714], "pos": "nnp", "rank": 0.0027606023463646293, "text": "zaharias"}
+{"count": 1, "ids": [778], "pos": "nns", "rank": 0.0027538887263890625, "text": "shots"}
+{"count": 1, "ids": [60], "pos": "np", "rank": 0.002748164549841193, "text": "move"}
+{"count": 1, "ids": [741], "pos": "vbg", "rank": 0.00273260116455449, "text": "fawning"}
+{"count": 1, "ids": [0, 719, 581], "pos": "np", "rank": 0.0027212636910518106, "text": "the lpga tour"}
+{"count": 1, "ids": [58, 666, 563], "pos": "np", "rank": 0.00270746397062753, "text": "many great players"}
+{"count": 1, "ids": [629], "pos": "np", "rank": 0.002701017831541066, "text": "arrangement"}
+{"count": 1, "ids": [614, 615], "pos": "np", "rank": 0.002698540417742919, "text": "entry-level division"}
+{"count": 2, "ids": [245], "pos": "vbp", "rank": 0.002679315301304404, "text": "want"}
+{"count": 2, "ids": [692, 693], "pos": "np", "rank": 0.0026652677467880735, "text": "jerry rice"}
+{"count": 2, "ids": [706], "pos": "vbg", "rank": 0.0026072774605240528, "text": "affording"}
+{"count": 2, "ids": [663], "pos": "nns", "rank": 0.00257054913364186, "text": "cricketers"}
+{"count": 1, "ids": [671, 663], "pos": "np", "rank": 0.00257054913364186, "text": "most cricketers"}
+{"count": 1, "ids": [565], "pos": "vbz", "rank": 0.002517232373240353, "text": "decides"}
+{"count": 1, "ids": [783], "pos": "nns", "rank": 0.0025058056519938286, "text": "appearances"}
+{"count": 1, "ids": [759], "pos": "nn", "rank": 0.002490313546676132, "text": "environment"}
+{"count": 1, "ids": [664], "pos": "nn", "rank": 0.0024628713003039646, "text": "home"}
+{"count": 1, "ids": [180], "pos": "vbz", "rank": 0.002451983731066953, "text": "ends"}
+{"count": 1, "ids": [761], "pos": "vb", "rank": 0.0024465546007505067, "text": "keep"}
+{"count": 2, "ids": [566], "pos": "vb", "rank": 0.0024431222382248446, "text": "feature"}
+{"count": 2, "ids": [302], "pos": "vbn", "rank": 0.0024310187624174647, "text": "used"}
+{"count": 1, "ids": [579], "pos": "nn", "rank": 0.0024000978117379806, "text": "legitimacy"}
+{"count": 1, "ids": [680], "pos": "vbg", "rank": 0.002375211155082649, "text": "training"}
+{"count": 2, "ids": [774, 775], "pos": "np", "rank": 0.0023578602216056347, "text": "justin thomas"}
+{"count": 1, "ids": [328], "pos": "vbz", "rank": 0.0023522611049502807, "text": "suggests"}
+{"count": 1, "ids": [747], "pos": "np", "rank": 0.002349319983102995, "text": "lee"}
+{"count": 2, "ids": [155], "pos": "vb", "rank": 0.002340892078009305, "text": "start"}
+{"count": 2, "ids": [550], "pos": "nns", "rank": 0.0023407274430153192, "text": "scenarios"}
+{"count": 1, "ids": [719, 581], "pos": "np", "rank": 0.0023325117351872663, "text": "lpga tour"}
+{"count": 1, "ids": [782], "pos": "vbg", "rank": 0.00231257947949086, "text": "choosing"}
+{"count": 1, "ids": [205], "pos": "np", "rank": 0.002280669521195358, "text": "world"}
+{"count": 1, "ids": [687], "pos": "vb", "rank": 0.002275907593964986, "text": "qualify"}
+{"count": 1, "ids": [82], "pos": "nn", "rank": 0.002275907593964986, "text": "way"}
+{"count": 1, "ids": [569], "pos": "np", "rank": 0.0022671950694119853, "text": "overtures"}
+{"count": 1, "ids": [656], "pos": "nn", "rank": 0.0022651210415370582, "text": "awakening"}
+{"count": 1, "ids": [110], "pos": "vbd", "rank": 0.0022622406378563224, "text": "progressed"}
+{"count": 1, "ids": [752], "pos": "np", "rank": 0.002257341925295358, "text": "scores"}
+{"count": 1, "ids": [631], "pos": "nn", "rank": 0.002249532761268003, "text": "praise"}
+{"count": 2, "ids": [134], "pos": "nn", "rank": 0.0022387093497175073, "text": "expectation"}
+{"count": 1, "ids": [585, 586, 587], "pos": "np", "rank": 0.0021923211086294745, "text": "ellie mae classic"}
+{"count": 1, "ids": [533], "pos": "vb", "rank": 0.002188472249873284, "text": "wonder"}
+{"count": 1, "ids": [72], "pos": "nn", "rank": 0.0021589926718158063, "text": "domain"}
+{"count": 1, "ids": [698], "pos": "vbn", "rank": 0.002125178061872033, "text": "received"}
+{"count": 1, "ids": [601], "pos": "nn", "rank": 0.002087915418497091, "text": "delight"}
+{"count": 1, "ids": [685], "pos": "np", "rank": 0.002079713730171047, "text": "nfl"}
+{"count": 1, "ids": [681], "pos": "np", "rank": 0.002046750023780478, "text": "manchester"}
+{"count": 1, "ids": [686], "pos": "vbd", "rank": 0.002042928456400756, "text": "failed"}
+{"count": 1, "ids": [370], "pos": "vb", "rank": 0.002042928456400756, "text": "make"}
+{"count": 1, "ids": [701], "pos": "np", "rank": 0.001997296191076735, "text": "scoring"}
+{"count": 2, "ids": [683, 684], "pos": "np", "rank": 0.001997296191076735, "text": "tony romo"}
+{"count": 1, "ids": [704, 107], "pos": "np", "rank": 0.001997296191076735, "text": "competition format"}
+{"count": 2, "ids": [599], "pos": "vbp", "rank": 0.001989215710689027, "text": "tend"}
+{"count": 1, "ids": [746], "pos": "nnp", "rank": 0.0019772966013820678, "text": "no489"}
+{"count": 1, "ids": [657, 658, 659], "pos": "np", "rank": 0.0019743618761409393, "text": "johan van der"}
+{"count": 1, "ids": [696], "pos": "nnp", "rank": 0.0019622222599841505, "text": "andriy"}
+{"count": 1, "ids": [583], "pos": "nnp", "rank": 0.001953495702586836, "text": "steph"}
+{"count": 1, "ids": [731], "pos": "nn", "rank": 0.001948038743167524, "text": "swap"}
+{"count": 1, "ids": [553, 161, 628], "pos": "np", "rank": 0.0019293812971788009, "text": "warriors community foundation"}
+{"count": 1, "ids": [582], "pos": "nn", "rank": 0.0019278097974411083, "text": "dispensation"}
+{"count": 1, "ids": [541], "pos": "vb", "rank": 0.0019278097974411083, "text": "represent"}
+{"count": 1, "ids": [649], "pos": "nn", "rank": 0.001924701313141219, "text": "option"}
+{"count": 1, "ids": [626, 394], "pos": "np", "rank": 0.0019072612186119401, "text": "charitable aspect"}
+{"count": 1, "ids": [310], "pos": "np", "rank": 0.0019041739903641127, "text": "events"}
+{"count": 1, "ids": [743, 757], "pos": "np", "rank": 0.0019041739903641127, "text": "opposite transpire"}
+{"count": 2, "ids": [466], "pos": "nn", "rank": 0.001897640410719224, "text": "work"}
+{"count": 1, "ids": [627], "pos": "nn", "rank": 0.0018742328575073566, "text": "footprint"}
+{"count": 1, "ids": [766], "pos": "vb", "rank": 0.0018653917136145302, "text": "shun"}
+{"count": 1, "ids": [574], "pos": "nn", "rank": 0.001855374152981591, "text": "spot"}
+{"count": 1, "ids": [784], "pos": "vbn", "rank": 0.0018546719336520572, "text": "avoided"}
+{"count": 1, "ids": [697], "pos": "nnp", "rank": 0.0018500366794335689, "text": "shevchenko"}
+{"count": 1, "ids": [407], "pos": "nn", "rank": 0.001826771204256977, "text": "one"}
+{"count": 1, "ids": [589], "pos": "nnp", "rank": 0.0018235580236761072, "text": "curry-a"}
+{"count": 1, "ids": [613], "pos": "nn", "rank": 0.0018137705410044926, "text": "profile"}
+{"count": 1, "ids": [642], "pos": "vbg", "rank": 0.0018094033325439288, "text": "accentuating"}
+{"count": 1, "ids": [558], "pos": "np", "rank": 0.0018071050344499878, "text": "jordan"}
+{"count": 1, "ids": [633], "pos": "nn", "rank": 0.0017867443915301293, "text": "plenty"}
+{"count": 1, "ids": [765], "pos": "nnp", "rank": 0.0017839179267065187, "text": "gilmore"}
+{"count": 2, "ids": [551, 552, 553], "pos": "np", "rank": 0.0017780720789360412, "text": "golden state warriors"}
+{"count": 1, "ids": [695], "pos": "nnp", "rank": 0.0017744240937854596, "text": "lendl"}
+{"count": 1, "ids": [770], "pos": "nn", "rank": 0.0017630601409521834, "text": "backdrop"}
+{"count": 1, "ids": [622], "pos": "vb", "rank": 0.001761561888428015, "text": "compete"}
+{"count": 1, "ids": [557], "pos": "nn", "rank": 0.0017522725709399095, "text": "battle"}
+{"count": 3, "ids": [604], "pos": "nn", "rank": 0.0016910385391608854, "text": "company"}
+{"count": 1, "ids": [667], "pos": "np", "rank": 0.0016891544722008906, "text": "cricket"}
+{"count": 1, "ids": [640], "pos": "vb", "rank": 0.0016866752123226663, "text": "promote"}
+{"count": 1, "ids": [620], "pos": "nns", "rank": 0.0016802428905393313, "text": "pros"}
+{"count": 1, "ids": [652], "pos": "nn", "rank": 0.0016802428905393313, "text": "living"}
+{"count": 1, "ids": [672], "pos": "nn", "rank": 0.0016802428905393313, "text": "bit"}
+{"count": 1, "ids": [720], "pos": "nn", "rank": 0.0016793845487196196, "text": "golfing"}
+{"count": 1, "ids": [676], "pos": "vbg", "rank": 0.0016678969395905615, "text": "waltzing"}
+{"count": 1, "ids": [702], "pos": "np", "rank": 0.0016545708105939146, "text": "friends"}
+{"count": 1, "ids": [62], "pos": "vb", "rank": 0.0016133967227300275, "text": "get"}
+{"count": 1, "ids": [564], "pos": "nn", "rank": 0.0016087653992918126, "text": "right"}
+{"count": 2, "ids": [143], "pos": "nn", "rank": 0.001602849700483239, "text": "time"}
+{"count": 1, "ids": [724, 143], "pos": "np", "rank": 0.001602849700483239, "text": "earlier time"}
+{"count": 1, "ids": [713], "pos": "nnp", "rank": 0.0015747836742935712, "text": "didrikson"}
+{"count": 1, "ids": [694], "pos": "np", "rank": 0.0015721110071115953, "text": "ivan"}
+{"count": 1, "ids": [665], "pos": "nn", "rank": 0.0015548756037139658, "text": "cut"}
+{"count": 1, "ids": [772], "pos": "np", "rank": 0.0015384434111638682, "text": "spectrum"}
+{"count": 1, "ids": [608, 609], "pos": "np", "rank": 0.0015384434111638682, "text": "positive reaction"}
+{"count": 1, "ids": [0, 677, 678], "pos": "np", "rank": 0.0015384434111638682, "text": "could andy murray"}
+{"count": 2, "ids": [690, 691], "pos": "np", "rank": 0.0015384434111638682, "text": "yevgeny kafelnikov"}
+{"count": 1, "ids": [475], "pos": "vbg", "rank": 0.0015003528960923274, "text": "picking"}
+{"count": 1, "ids": [612], "pos": "vb", "rank": 0.0014990397714749128, "text": "raise"}
+{"count": 1, "ids": [662], "pos": "nnp", "rank": 0.0014818437505877446, "text": "africa"}
+{"count": 1, "ids": [329], "pos": "nn", "rank": 0.0014543369005814055, "text": "cause"}
+{"count": 1, "ids": [223], "pos": "nn", "rank": 0.001450300801530166, "text": "track"}
+{"count": 1, "ids": [570], "pos": "vbn", "rank": 0.0014338720674005791, "text": "accepted"}
+{"count": 1, "ids": [63], "pos": "nn", "rank": 0.0014306035764364267, "text": "job"}
+{"count": 1, "ids": [723], "pos": "nn", "rank": 0.0014277993348185628, "text": "fore"}
+{"count": 1, "ids": [610], "pos": "vbd", "rank": 0.0014230994030475404, "text": "greeted"}
+{"count": 1, "ids": [756], "pos": "nn", "rank": 0.0014230994030475404, "text": "criticism"}
+{"count": 1, "ids": [457], "pos": "vbz", "rank": 0.0013971116529873729, "text": "needs"}
+{"count": 1, "ids": [127], "pos": "nn", "rank": 0.0013971116529873729, "text": "kind"}
+{"count": 1, "ids": [740], "pos": "nns", "rank": 0.0013886979306438464, "text": "fingers"}
+{"count": 1, "ids": [591, 592], "pos": "np", "rank": 0.0013854924845262458, "text": "armour icon"}
+{"count": 1, "ids": [735, 60], "pos": "np", "rank": 0.0013740822749205965, "text": "valid move"}
+{"count": 1, "ids": [768], "pos": "vbp", "rank": 0.0013568244418050354, "text": "provide"}
+{"count": 1, "ids": [615], "pos": "nn", "rank": 0.0013492702088714595, "text": "division"}
+{"count": 1, "ids": [639], "pos": "nn", "rank": 0.0013492702088714595, "text": "game"}
+{"count": 1, "ids": [703], "pos": "vbg", "rank": 0.0013492702088714595, "text": "teeing"}
+{"count": 1, "ids": [477], "pos": "nn", "rank": 0.0013492702088714595, "text": "position"}
+{"count": 1, "ids": [122], "pos": "nn", "rank": 0.0013492702088714595, "text": "development"}
+{"count": 1, "ids": [744], "pos": "nn", "rank": 0.001346276910426946, "text": "model"}
+{"count": 1, "ids": [528], "pos": "nn", "rank": 0.0013426616539305171, "text": "sense"}
+{"count": 1, "ids": [611], "pos": "vbn", "rank": 0.001341443963723304, "text": "based"}
+{"count": 1, "ids": [693], "pos": "nnp", "rank": 0.0013326338733940367, "text": "rice"}
+{"count": 1, "ids": [675], "pos": "nn", "rank": 0.0013265167587440418, "text": "concept"}
+{"count": 1, "ids": [727], "pos": "vbz", "rank": 0.0013265167587440418, "text": "sets"}
+{"count": 1, "ids": [58, 742], "pos": "np", "rank": 0.0013090170212074349, "text": "many respects"}
+{"count": 1, "ids": [628], "pos": "np", "rank": 0.0012862541981192004, "text": "foundation"}
+{"count": 1, "ids": [554], "pos": "vbn", "rank": 0.0012743316302029012, "text": "locked"}
+{"count": 1, "ids": [556], "pos": "nn", "rank": 0.001229674829343412, "text": "play-off"}
+{"count": 1, "ids": [780], "pos": "nn", "rank": 0.0012081872691798294, "text": "type"}
+{"count": 1, "ids": [775], "pos": "nnp", "rank": 0.0011789301108028174, "text": "thomas"}
+{"count": 1, "ids": [647], "pos": "nn", "rank": 0.0011335975347059927, "text": "fallback"}
+{"count": 1, "ids": [600], "pos": "vbd", "rank": 0.001128670962647679, "text": "expressed"}
+{"count": 1, "ids": [174], "pos": "nn", "rank": 0.001128670962647679, "text": "ability"}
+{"count": 1, "ids": [726], "pos": "nn", "rank": 0.001128670962647679, "text": "handicap"}
+{"count": 1, "ids": [605], "pos": "vbn", "rank": 0.0011217201011043038, "text": "linked"}
+{"count": 1, "ids": [712], "pos": "nnp", "rank": 0.0011050379218196784, "text": "babe"}
+{"count": 1, "ids": [587], "pos": "nnp", "rank": 0.0010961605543147372, "text": "classic"}
+{"count": 1, "ids": [479], "pos": "vb", "rank": 0.0010961605543147372, "text": "revive"}
+{"count": 1, "ids": [692], "pos": "nnp", "rank": 0.0010961605543147372, "text": "jerry"}
+{"count": 1, "ids": [577], "pos": "np", "rank": 0.0010795906312510014, "text": "circumstances"}
+{"count": 2, "ids": [591], "pos": "np", "rank": 0.0010795906312510014, "text": "armour"}
+{"count": 1, "ids": [634], "pos": "np", "rank": 0.0010795906312510014, "text": "assist"}
+{"count": 1, "ids": [654], "pos": "np", "rank": 0.0010795906312510014, "text": "individuals"}
+{"count": 1, "ids": [711], "pos": "np", "rank": 0.0010795906312510014, "text": "exception"}
+{"count": 1, "ids": [771], "pos": "np", "rank": 0.0010795906312510014, "text": "sporting"}
+{"count": 1, "ids": [776], "pos": "np", "rank": 0.0010795906312510014, "text": "guys"}
+{"count": 1, "ids": [576], "pos": "np", "rank": 0.0010795906312510014, "text": "ludicrous"}
+{"count": 1, "ids": [39], "pos": "np", "rank": 0.0010795906312510014, "text": "first"}
+{"count": 1, "ids": [567], "pos": "nn", "rank": 0.0010591133090347463, "text": "match"}
+{"count": 1, "ids": [619], "pos": "nn", "rank": 0.0010449178178703286, "text": "opportunity"}
+{"count": 1, "ids": [722], "pos": "vbn", "rank": 0.0010449178178703286, "text": "come"}
+{"count": 1, "ids": [661], "pos": "nnp", "rank": 0.0010398568650855234, "text": "south"}
+{"count": 1, "ids": [760], "pos": "vbp", "rank": 0.0010297837123995031, "text": "handle"}
+{"count": 1, "ids": [773], "pos": "nn", "rank": 0.0010080753762526581, "text": "round"}
+{"count": 1, "ids": [340], "pos": "nn", "rank": 0.0009986480955383676, "text": "standing"}
+{"count": 1, "ids": [651], "pos": "nn", "rank": 0.0009986480955383676, "text": "discipline"}
+{"count": 1, "ids": [684], "pos": "nnp", "rank": 0.0009986480955383676, "text": "romo"}
+{"count": 1, "ids": [107], "pos": "nn", "rank": 0.0009986480955383676, "text": "format"}
+{"count": 1, "ids": [719], "pos": "nnp", "rank": 0.0009986480955383676, "text": "lpga"}
+{"count": 1, "ids": [729], "pos": "nns", "rank": 0.0009986480955383676, "text": "amateurs"}
+{"count": 1, "ids": [739], "pos": "vb", "rank": 0.0009986480955383676, "text": "snap"}
+{"count": 1, "ids": [44], "pos": "vb", "rank": 0.0009986480955383676, "text": "go"}
+{"count": 1, "ids": [617], "pos": "nnp", "rank": 0.0009871809380704697, "text": "pga"}
+{"count": 1, "ids": [659], "pos": "vb", "rank": 0.0009871809380704697, "text": "der"}
+{"count": 1, "ids": [764], "pos": "nnp", "rank": 0.0009642466231346735, "text": "happy"}
+{"count": 1, "ids": [394], "pos": "nn", "rank": 0.0009536306093059701, "text": "aspect"}
+{"count": 1, "ids": [607], "pos": "nn", "rank": 0.0009520869951820563, "text": "cock-a-hoop"}
+{"count": 1, "ids": [614], "pos": "nn", "rank": 0.0009520869951820563, "text": "entry-level"}
+{"count": 1, "ids": [618], "pos": "vbn", "rank": 0.0009520869951820563, "text": "honoured"}
+{"count": 1, "ids": [635], "pos": "nn", "rank": 0.0009520869951820563, "text": "rub"}
+{"count": 1, "ids": [482], "pos": "nn", "rank": 0.0009520869951820563, "text": "problem"}
+{"count": 1, "ids": [730], "pos": "nn", "rank": 0.0009520869951820563, "text": "suggestion"}
+{"count": 1, "ids": [734], "pos": "vbg", "rank": 0.0009520869951820563, "text": "removing"}
+{"count": 1, "ids": [743], "pos": "nn", "rank": 0.0009520869951820563, "text": "opposite"}
+{"count": 1, "ids": [745], "pos": "nn", "rank": 0.0009520869951820563, "text": "platform"}
+{"count": 1, "ids": [751], "pos": "vbn", "rank": 0.0009520869951820563, "text": "gained"}
+{"count": 1, "ids": [757], "pos": "nn", "rank": 0.00094453276224848, "text": "transpire"}
+{"count": 3, "ids": [553], "pos": "nnp", "rank": 0.0008890360394680206, "text": "warriors"}
+{"count": 1, "ids": [774], "pos": "nnp", "rank": 0.0008272854052969573, "text": "justin"}
+{"count": 1, "ids": [586], "pos": "nnp", "rank": 0.0007692217055819341, "text": "mae"}
+{"count": 1, "ids": [609], "pos": "nn", "rank": 0.0007692217055819341, "text": "reaction"}
+{"count": 1, "ids": [12], "pos": "vb", "rank": 0.0007692217055819341, "text": "bring"}
+{"count": 1, "ids": [678], "pos": "nnp", "rank": 0.0007692217055819341, "text": "murray"}
+{"count": 1, "ids": [691], "pos": "nnp", "rank": 0.0007692217055819341, "text": "kafelnikov"}
+{"count": 1, "ids": [755], "pos": "nn", "rank": 0.0007692217055819341, "text": "embarrassment"}
+{"count": 1, "ids": [677, 678], "pos": "np", "rank": 0.0007692217055819341, "text": "andy murray"}
+{"count": 1, "ids": [552], "pos": "nnp", "rank": 0.0006927462422631229, "text": "state"}
+{"count": 1, "ids": [592], "pos": "nn", "rank": 0.0006927462422631229, "text": "icon"}
+{"count": 1, "ids": [603], "pos": "nn", "rank": 0.0006927462422631229, "text": "clothing"}
+{"count": 1, "ids": [658], "pos": "np", "rank": 0.0006927462422631229, "text": "van"}
+{"count": 1, "ids": [161], "pos": "nnp", "rank": 0.000665750153441448, "text": "community"}
+{"count": 1, "ids": [742], "pos": "nns", "rank": 0.0006545085106037174, "text": "respects"}
+{"count": 1, "ids": [549], "pos": "vb", "rank": 0.0005397953156255007, "text": "imagine"}
+{"count": 1, "ids": [551], "pos": "nnp", "rank": 0.0005397953156255007, "text": "golden"}
+{"count": 1, "ids": [585], "pos": "nnp", "rank": 0.0005397953156255007, "text": "ellie"}
+{"count": 1, "ids": [595], "pos": "vbz", "rank": 0.0005397953156255007, "text": "sounds"}
+{"count": 1, "ids": [97], "pos": "vb", "rank": 0.0005397953156255007, "text": "help"}
+{"count": 1, "ids": [632], "pos": "vbz", "rank": 0.0005397953156255007, "text": "presumes"}
+{"count": 1, "ids": [637], "pos": "vb", "rank": 0.0005397953156255007, "text": "boost"}
+{"count": 1, "ids": [403], "pos": "vbz", "rank": 0.0005397953156255007, "text": "remains"}
+{"count": 1, "ids": [650], "pos": "vbg", "rank": 0.0005397953156255007, "text": "switching"}
+{"count": 1, "ids": [657], "pos": "np", "rank": 0.0005397953156255007, "text": "johan"}
+{"count": 1, "ids": [668], "pos": "nn", "rank": 0.0005397953156255007, "text": "stage"}
+{"count": 1, "ids": [677], "pos": "nnp", "rank": 0.0005397953156255007, "text": "andy"}
+{"count": 1, "ids": [683], "pos": "nnp", "rank": 0.0005397953156255007, "text": "tony"}
+{"count": 1, "ids": [690], "pos": "nnp", "rank": 0.0005397953156255007, "text": "yevgeny"}
+{"count": 1, "ids": [700], "pos": "vbd", "rank": 0.0005397953156255007, "text": "discovered"}
+{"count": 1, "ids": [704], "pos": "nn", "rank": 0.0005397953156255007, "text": "competition"}
+{"count": 1, "ids": [718], "pos": "nns", "rank": 0.0005397953156255007, "text": "wins"}
+{"count": 1, "ids": [728], "pos": "vbg", "rank": 0.0005397953156255007, "text": "leading"}
+{"count": 1, "ids": [733], "pos": "nns", "rank": 0.0005397953156255007, "text": "dynamics"}
+{"count": 1, "ids": [738], "pos": "nn", "rank": 0.0005397953156255007, "text": "multimillionaire"}
+{"count": 1, "ids": [290], "pos": "vb", "rank": 0.0005397953156255007, "text": "endure"}
+{"count": 1, "ids": [763], "pos": "nn", "rank": 0.0005397953156255007, "text": "gallery"}
+{"count": 1, "ids": [0], "pos": "np", "rank": 0.0, "text": "2015"}

@@ -1,0 +1,295 @@
+{"count": 3, "ids": [841, 842], "pos": "np", "rank": 0.021687667104457884, "text": "hot water"}
+{"count": 1, "ids": [454, 945, 454], "pos": "np", "rank": 0.018044988199152585, "text": "machine washing machines"}
+{"count": 1, "ids": [811, 795], "pos": "np", "rank": 0.016170612832429553, "text": "dishwasher clean"}
+{"count": 2, "ids": [871], "pos": "np", "rank": 0.016130400893380407, "text": "refrigerators"}
+{"count": 2, "ids": [837], "pos": "np", "rank": 0.01566872458195753, "text": "soda"}
+{"count": 1, "ids": [919], "pos": "np", "rank": 0.014860324385767709, "text": "butter"}
+{"count": 1, "ids": [805], "pos": "np", "rank": 0.014257405591070756, "text": "germs"}
+{"count": 1, "ids": [896, 897], "pos": "np", "rank": 0.013205146680137059, "text": "safe temperature"}
+{"count": 16, "ids": [46], "pos": "vbz", "rank": 0.012092837948224872, "text": "is"}
+{"count": 1, "ids": [957, 958], "pos": "np", "rank": 0.011979506660285763, "text": "cutup lemon"}
+{"count": 2, "ids": [825, 826, 824], "pos": "np", "rank": 0.011300523913774157, "text": "pyrex measuring cup"}
+{"count": 1, "ids": [883, 836, 837], "pos": "np", "rank": 0.011093530343787504, "text": "tablespoon baking soda"}
+{"count": 1, "ids": [795, 842], "pos": "np", "rank": 0.010843833552228942, "text": "clean water"}
+{"count": 1, "ids": [428, 880], "pos": "np", "rank": 0.010815543648907546, "text": "top shelf"}
+{"count": 1, "ids": [881, 842], "pos": "np", "rank": 0.010728866310509977, "text": "warm water"}
+{"count": 1, "ids": [811, 287], "pos": "np", "rank": 0.010235517999711516, "text": "dishwasher open"}
+{"count": 1, "ids": [918], "pos": "np", "rank": 0.010093121001609496, "text": "eggs"}
+{"count": 4, "ids": [900], "pos": "np", "rank": 0.009905733444228071, "text": "items"}
+{"count": 1, "ids": [955, 956], "pos": "np", "rank": 0.009627770733533205, "text": "garbage disposal"}
+{"count": 1, "ids": [428, 829], "pos": "np", "rank": 0.00933691093085714, "text": "top rack"}
+{"count": 2, "ids": [820, 821, 822], "pos": "np", "rank": 0.008988713268263174, "text": "distilled white vinegar"}
+{"count": 1, "ids": [894, 50], "pos": "np", "rank": 0.008860788424625905, "text": "cool air"}
+{"count": 3, "ids": [235], "pos": "np", "rank": 0.008722942057370632, "text": "foods"}
+{"count": 1, "ids": [857, 143], "pos": "np", "rank": 0.008506832965709792, "text": "brewing time"}
+{"count": 6, "ids": [795], "pos": "vb", "rank": 0.008085306416214777, "text": "clean"}
+{"count": 1, "ids": [871, 828], "pos": "np", "rank": 0.008065200446690204, "text": "refrigerator empty"}
+{"count": 1, "ids": [885, 881, 842], "pos": "np", "rank": 0.007749369814142866, "text": "quart warm water"}
+{"count": 1, "ids": [0, 0, 0, 898], "pos": "np", "rank": 0.00753971779067706, "text": "37 to 40 degrees"}
+{"count": 1, "ids": [83, 805], "pos": "np", "rank": 0.007128702795535378, "text": "other germs"}
+{"count": 1, "ids": [934, 795], "pos": "np", "rank": 0.006894056567658545, "text": "salt clean"}
+{"count": 1, "ids": [828, 811], "pos": "np", "rank": 0.006856688692944164, "text": "empty dishwasher"}
+{"count": 1, "ids": [506], "pos": "np", "rank": 0.006834735827254464, "text": "anything"}
+{"count": 4, "ids": [897], "pos": "nns", "rank": 0.006602573340068529, "text": "temperatures"}
+{"count": 1, "ids": [901, 897], "pos": "np", "rank": 0.006602573340068529, "text": "low temperatures"}
+{"count": 1, "ids": [921, 922], "pos": "np", "rank": 0.006390558957727981, "text": "tomato sauce"}
+{"count": 1, "ids": [862, 863], "pos": "np", "rank": 0.006212724782450979, "text": "paper filter"}
+{"count": 1, "ids": [871, 904], "pos": "np", "rank": 0.006184564719288203, "text": "refrigerator door"}
+{"count": 1, "ids": [910, 348], "pos": "np", "rank": 0.006147405289579846, "text": "coldest place"}
+{"count": 1, "ids": [454], "pos": "np", "rank": 0.006014996066384194, "text": "machine"}
+{"count": 1, "ids": [973], "pos": "np", "rank": 0.0060045264936800565, "text": "window"}
+{"count": 3, "ids": [958], "pos": "nn", "rank": 0.005989753330142881, "text": "lemon"}
+{"count": 1, "ids": [786, 787], "pos": "np", "rank": 0.00596687896747478, "text": "cleaning frenzy"}
+{"count": 1, "ids": [948], "pos": "np", "rank": 0.005817678174975149, "text": "wash"}
+{"count": 1, "ids": [753, 941], "pos": "np", "rank": 0.005800330117974113, "text": "high humidity"}
+{"count": 2, "ids": [912, 900], "pos": "np", "rank": 0.005749803329142602, "text": "store items"}
+{"count": 1, "ids": [824], "pos": "np", "rank": 0.005650261956887078, "text": "cup"}
+{"count": 1, "ids": [925, 926], "pos": "np", "rank": 0.005590053601741082, "text": "raw meat"}
+{"count": 3, "ids": [883], "pos": "nns", "rank": 0.005546765171893752, "text": "tablespoons"}
+{"count": 1, "ids": [971, 883], "pos": "np", "rank": 0.005546765171893752, "text": "several tablespoons"}
+{"count": 1, "ids": [0, 843, 142], "pos": "np", "rank": 0.005530733648129361, "text": "a few hours"}
+{"count": 4, "ids": [880], "pos": "nn", "rank": 0.005407771824453773, "text": "shelf"}
+{"count": 1, "ids": [915, 880], "pos": "np", "rank": 0.005407771824453773, "text": "middle shelf"}
+{"count": 4, "ids": [42], "pos": "vbz", "rank": 0.0052401377534070865, "text": "has"}
+{"count": 2, "ids": [287], "pos": "vb", "rank": 0.005117758999855758, "text": "open"}
+{"count": 1, "ids": [861, 492, 822], "pos": "np", "rank": 0.004939602435382404, "text": "equal parts vinegar"}
+{"count": 4, "ids": [956], "pos": "nn", "rank": 0.004813885366766603, "text": "disposal"}
+{"count": 1, "ids": [386], "pos": "vb", "rank": 0.004674682908462146, "text": "drop"}
+{"count": 1, "ids": [957], "pos": "nn", "rank": 0.004556508772289088, "text": "cutup"}
+{"count": 1, "ids": [952, 454], "pos": "np", "rank": 0.004511247049788146, "text": "front-loading machine"}
+{"count": 1, "ids": [838, 880], "pos": "np", "rank": 0.004495572465662776, "text": "bottom shelf"}
+{"count": 6, "ids": [822], "pos": "nn", "rank": 0.004494356634131587, "text": "vinegar"}
+{"count": 3, "ids": [50], "pos": "nn", "rank": 0.004430394212312953, "text": "air"}
+{"count": 1, "ids": [881, 50], "pos": "np", "rank": 0.004430394212312953, "text": "warm air"}
+{"count": 1, "ids": [404, 897], "pos": "np", "rank": 0.004401715560045686, "text": "consistent temperature"}
+{"count": 1, "ids": [842], "pos": "np", "rank": 0.004337533420891577, "text": "water"}
+{"count": 1, "ids": [828, 848], "pos": "np", "rank": 0.00430695940791256, "text": "empty load"}
+{"count": 1, "ids": [171], "pos": "np", "rank": 0.004270418996818421, "text": "everything"}
+{"count": 2, "ids": [143], "pos": "nns", "rank": 0.004253416482854896, "text": "times"}
+{"count": 1, "ids": [257, 143], "pos": "np", "rank": 0.004253416482854896, "text": "more times"}
+{"count": 1, "ids": [332, 986, 987], "pos": "np", "rank": 0.0042362221705117675, "text": "former magazine editor"}
+{"count": 1, "ids": [971, 972], "pos": "np", "rank": 0.004207430084749509, "text": "several slices"}
+{"count": 1, "ids": [806], "pos": "vb", "rank": 0.0040785475492680235, "text": "thrive"}
+{"count": 1, "ids": [874, 875], "pos": "np", "rank": 0.004057802050108638, "text": "healthy habit"}
+{"count": 1, "ids": [795, 976], "pos": "np", "rank": 0.004042653208107388, "text": "clean cloth"}
+{"count": 6, "ids": [811], "pos": "nn", "rank": 0.004033543859886843, "text": "dishwasher"}
+{"count": 1, "ids": [811, 812], "pos": "np", "rank": 0.004033543859886843, "text": "dishwasher monthly"}
+{"count": 1, "ids": [791], "pos": "np", "rank": 0.004000219798400779, "text": "house"}
+{"count": 1, "ids": [930, 931], "pos": "np", "rank": 0.003992714182843959, "text": "salad dressings"}
+{"count": 7, "ids": [135], "pos": "vbg", "rank": 0.003931416783897234, "text": "doing"}
+{"count": 1, "ids": [917], "pos": "vbg", "rank": 0.0039001305654634516, "text": "including"}
+{"count": 1, "ids": [885], "pos": "nn", "rank": 0.003874684907071433, "text": "quart"}
+{"count": 1, "ids": [884], "pos": "vbn", "rank": 0.00387131836745096, "text": "mixed"}
+{"count": 1, "ids": [939], "pos": "np", "rank": 0.003839421434125348, "text": "drawer"}
+{"count": 1, "ids": [832, 833], "pos": "np", "rank": 0.0037961994644969627, "text": "hot-water setting"}
+{"count": 2, "ids": [898], "pos": "nns", "rank": 0.00376985889533853, "text": "degrees"}
+{"count": 1, "ids": [899], "pos": "nn", "rank": 0.00376985889533853, "text": "freezer"}
+{"count": 1, "ids": [0, 898], "pos": "np", "rank": 0.00376985889533853, "text": "zero degrees"}
+{"count": 1, "ids": [0, 0, 824], "pos": "np", "rank": 0.003766841304591386, "text": "about one cup"}
+{"count": 1, "ids": [812], "pos": "np", "rank": 0.003740776597165551, "text": "monthly"}
+{"count": 1, "ids": [953, 954], "pos": "np", "rank": 0.003728832751102061, "text": "interior dry"}
+{"count": 1, "ids": [0, 851], "pos": "np", "rank": 0.0037018363163547367, "text": "a month"}
+{"count": 2, "ids": [815], "pos": "vb", "rank": 0.0036124487426225085, "text": "maintain"}
+{"count": 1, "ids": [289], "pos": "np", "rank": 0.0035913177284861097, "text": "grounds"}
+{"count": 1, "ids": [895], "pos": "nn", "rank": 0.003524201309224063, "text": "circulate"}
+{"count": 4, "ids": [872], "pos": "vb", "rank": 0.0035051870541946547, "text": "wipe"}
+{"count": 3, "ids": [934], "pos": "nn", "rank": 0.0034470282838292726, "text": "salt"}
+{"count": 1, "ids": [909], "pos": "nns", "rank": 0.003445682877043106, "text": "juices"}
+{"count": 1, "ids": [881, 506], "pos": "np", "rank": 0.003417367913627232, "text": "warm anything"}
+{"count": 1, "ids": [808, 809], "pos": "np", "rank": 0.003305900499551905, "text": "machines\u2019 performance"}
+{"count": 1, "ids": [923, 924], "pos": "np", "rank": 0.0033027485370793544, "text": "dairy products"}
+{"count": 1, "ids": [937, 897], "pos": "np", "rank": 0.0033012866700342647, "text": "higher temperatures"}
+{"count": 1, "ids": [903], "pos": "vbz", "rank": 0.0032259372026095297, "text": "enters"}
+{"count": 1, "ids": [818], "pos": "np", "rank": 0.003207951034862983, "text": "dishes"}
+{"count": 1, "ids": [922], "pos": "nn", "rank": 0.0031952794788639906, "text": "sauce"}
+{"count": 2, "ids": [967, 859], "pos": "np", "rank": 0.0031456249615486177, "text": "microwave fill"}
+{"count": 2, "ids": [233, 849], "pos": "np", "rank": 0.003145097142023195, "text": "coffee maker"}
+{"count": 1, "ids": [963, 964], "pos": "np", "rank": 0.003125604436817608, "text": "strong odor"}
+{"count": 1, "ids": [975], "pos": "nn", "rank": 0.003113002178298033, "text": "steam"}
+{"count": 2, "ids": [863], "pos": "nn", "rank": 0.0031063623912254896, "text": "filter"}
+{"count": 1, "ids": [904], "pos": "np", "rank": 0.0030922823596441014, "text": "door"}
+{"count": 4, "ids": [348], "pos": "vb", "rank": 0.003073702644789923, "text": "place"}
+{"count": 1, "ids": [788], "pos": "np", "rank": 0.0030725555751546295, "text": "spring"}
+{"count": 1, "ids": [933], "pos": "nns", "rank": 0.0030262011393277473, "text": "pickles"}
+{"count": 1, "ids": [843, 960, 961], "pos": "np", "rank": 0.0030040219160730095, "text": "few ice cubes"}
+{"count": 1, "ids": [2, 790], "pos": "np", "rank": 0.002998253825017995, "text": "new calendar"}
+{"count": 2, "ids": [846, 847], "pos": "np", "rank": 0.002998253825017995, "text": "common mistakes"}
+{"count": 1, "ids": [829], "pos": "nn", "rank": 0.0029947698762109107, "text": "rack"}
+{"count": 2, "ids": [786], "pos": "nn", "rank": 0.00298343948373739, "text": "cleaning"}
+{"count": 1, "ids": [850, 786], "pos": "np", "rank": 0.00298343948373739, "text": "thorough cleaning"}
+{"count": 1, "ids": [0, 868], "pos": "np", "rank": 0.0029273891744333275, "text": "30 minutes"}
+{"count": 1, "ids": [882], "pos": "nn", "rank": 0.0028793006797453555, "text": "baking"}
+{"count": 1, "ids": [69, 984, 985], "pos": "np", "rank": 0.0028772076079273947, "text": "show style expert"}
+{"count": 6, "ids": [912], "pos": "vb", "rank": 0.002874901664571301, "text": "store"}
+{"count": 1, "ids": [912, 927], "pos": "np", "rank": 0.002874901664571301, "text": "store condiments"}
+{"count": 1, "ids": [932], "pos": "nn", "rank": 0.0028747233538574525, "text": "mustard"}
+{"count": 3, "ids": [70], "pos": "vb", "rank": 0.0028713373577405805, "text": "leave"}
+{"count": 1, "ids": [968, 824], "pos": "np", "rank": 0.002825130978443539, "text": "microwave-safe cup"}
+{"count": 1, "ids": [947], "pos": "nn", "rank": 0.002808078905637473, "text": "salmonella"}
+{"count": 1, "ids": [926], "pos": "nn", "rank": 0.002795026800870541, "text": "meat"}
+{"count": 1, "ids": [814], "pos": "nn", "rank": 0.0027936992404467, "text": "buildup"}
+{"count": 4, "ids": [369], "pos": "vb", "rank": 0.002770126260093423, "text": "run"}
+{"count": 1, "ids": [843, 142], "pos": "np", "rank": 0.0027653668240646806, "text": "few hours"}
+{"count": 3, "ids": [145], "pos": "vb", "rank": 0.002668352858062395, "text": "let"}
+{"count": 1, "ids": [830, 831], "pos": "np", "rank": 0.0026193251529567866, "text": "full cycle"}
+{"count": 1, "ids": [813], "pos": "vb", "rank": 0.0026011339702980635, "text": "prevent"}
+{"count": 2, "ids": [908], "pos": "nn", "rank": 0.002599113019650721, "text": "fruit"}
+{"count": 2, "ids": [857], "pos": "nn", "rank": 0.0025432024651877317, "text": "brewing"}
+{"count": 4, "ids": [820], "pos": "vbn", "rank": 0.0025403894141564545, "text": "distilled"}
+{"count": 2, "ids": [492], "pos": "nn", "rank": 0.002469801217691202, "text": "part"}
+{"count": 1, "ids": [910, 492], "pos": "np", "rank": 0.002469801217691202, "text": "coldest part"}
+{"count": 1, "ids": [858], "pos": "nn", "rank": 0.002461430084801384, "text": "trick"}
+{"count": 3, "ids": [834], "pos": "vbz", "rank": 0.0024520536515608643, "text": "deodorizes"}
+{"count": 3, "ids": [802], "pos": "nns", "rank": 0.002451129513967899, "text": "appliances"}
+{"count": 1, "ids": [950], "pos": "nn", "rank": 0.0024064352555809194, "text": "basin"}
+{"count": 1, "ids": [787], "pos": "nn", "rank": 0.0023967910687435986, "text": "frenzy"}
+{"count": 1, "ids": [921], "pos": "nn", "rank": 0.0023949317411409298, "text": "tomato"}
+{"count": 3, "ids": [370], "pos": "vbp", "rank": 0.002380639398720687, "text": "make"}
+{"count": 1, "ids": [965], "pos": "vbg", "rank": 0.002377238654952236, "text": "emanating"}
+{"count": 1, "ids": [974], "pos": "vbn", "rank": 0.002372501411063868, "text": "covered"}
+{"count": 1, "ids": [887, 888], "pos": "np", "rank": 0.0023666964451832247, "text": "vacuum dust"}
+{"count": 3, "ids": [186], "pos": "nn", "rank": 0.002351001616610249, "text": "solution"}
+{"count": 1, "ids": [797, 798], "pos": "np", "rank": 0.0023176042692270053, "text": "kitchen sink"}
+{"count": 1, "ids": [980], "pos": "vbn", "rank": 0.00231147518105699, "text": "uncovered"}
+{"count": 1, "ids": [890], "pos": "vbn", "rank": 0.0022989278835919436, "text": "collected"}
+{"count": 1, "ids": [941], "pos": "nn", "rank": 0.002294082161762924, "text": "humidity"}
+{"count": 1, "ids": [800], "pos": "nns", "rank": 0.0022733850304638608, "text": "floors"}
+{"count": 2, "ids": [838], "pos": "nn", "rank": 0.002247786232831388, "text": "bottom"}
+{"count": 1, "ids": [906], "pos": "nn", "rank": 0.002247786232831388, "text": "beer"}
+{"count": 1, "ids": [962], "pos": "nn", "rank": 0.0021745044263194, "text": "residue"}
+{"count": 1, "ids": [844, 845], "pos": "np", "rank": 0.002156177318571635, "text": "dirty truth"}
+{"count": 1, "ids": [854, 855], "pos": "np", "rank": 0.002156177318571635, "text": "inner workings"}
+{"count": 2, "ids": [848], "pos": "nn", "rank": 0.00215347970395628, "text": "load"}
+{"count": 1, "ids": [949], "pos": "vb", "rank": 0.00214457639831858, "text": "sanitize"}
+{"count": 1, "ids": [987], "pos": "nn", "rank": 0.0021181110852558837, "text": "editor"}
+{"count": 1, "ids": [955], "pos": "np", "rank": 0.002090889574921401, "text": "garbage"}
+{"count": 3, "ids": [302], "pos": "vbp", "rank": 0.0020863631882241237, "text": "use"}
+{"count": 1, "ids": [875], "pos": "nn", "rank": 0.002028901025054319, "text": "habit"}
+{"count": 1, "ids": [931], "pos": "nns", "rank": 0.0019963570914219796, "text": "dressings"}
+{"count": 1, "ids": [799], "pos": "nns", "rank": 0.0019892792675525505, "text": "toilets"}
+{"count": 2, "ids": [836], "pos": "vbg", "rank": 0.0019693140771354783, "text": "baking"}
+{"count": 1, "ids": [914], "pos": "nn", "rank": 0.0019655379263640886, "text": "spoil"}
+{"count": 1, "ids": [889], "pos": "nn", "rank": 0.0019415293870156897, "text": "dirt"}
+{"count": 1, "ids": [929], "pos": "nns", "rank": 0.0019255957707346772, "text": "jams"}
+{"count": 1, "ids": [986], "pos": "nn", "rank": 0.0019154372191793477, "text": "magazine"}
+{"count": 1, "ids": [833], "pos": "nn", "rank": 0.0018980997322484813, "text": "setting"}
+{"count": 1, "ids": [990], "pos": "nnp", "rank": 0.001870475817465193, "text": "decorating"}
+{"count": 1, "ids": [959], "pos": "nn", "rank": 0.001856045040694847, "text": "couple"}
+{"count": 1, "ids": [851], "pos": "np", "rank": 0.0018509181581773683, "text": "month"}
+{"count": 1, "ids": [982], "pos": "nn", "rank": 0.0018355096879606075, "text": "splatter"}
+{"count": 1, "ids": [859], "pos": "np", "rank": 0.0018339314906388178, "text": "fill"}
+{"count": 1, "ids": [893], "pos": "np", "rank": 0.0018195577441169732, "text": "room"}
+{"count": 2, "ids": [953], "pos": "nn", "rank": 0.001726588146881479, "text": "interior"}
+{"count": 1, "ids": [140], "pos": "vb", "rank": 0.0017236393469702584, "text": "slow"}
+{"count": 1, "ids": [892], "pos": "vb", "rank": 0.0016971259616338184, "text": "overstuff"}
+{"count": 1, "ids": [969], "pos": "vb", "rank": 0.0016832283876505193, "text": "bowl"}
+{"count": 1, "ids": [727], "pos": "vbn", "rank": 0.0016680736058490443, "text": "set"}
+{"count": 1, "ids": [73], "pos": "vbg", "rank": 0.0016674465285832752, "text": "knowing"}
+{"count": 1, "ids": [852, 853], "pos": "np", "rank": 0.0016608373152118198, "text": "hard-water minerals"}
+{"count": 1, "ids": [809], "pos": "nn", "rank": 0.0016529502497759526, "text": "performance"}
+{"count": 1, "ids": [924], "pos": "nns", "rank": 0.0016513742685396772, "text": "products"}
+{"count": 1, "ids": [946], "pos": "vbg", "rank": 0.0016445342918527481, "text": "breeding"}
+{"count": 1, "ids": [913], "pos": "nn", "rank": 0.0016266181945315554, "text": "milk"}
+{"count": 1, "ids": [816], "pos": "nn", "rank": 0.0016062865392605628, "text": "efficiency"}
+{"count": 1, "ids": [928], "pos": "nn", "rank": 0.0015796131635019309, "text": "ketchup"}
+{"count": 2, "ids": [945], "pos": "nn", "rank": 0.001577604442166777, "text": "washing"}
+{"count": 3, "ids": [967], "pos": "nn", "rank": 0.0015728124807743089, "text": "microwave"}
+{"count": 2, "ids": [849], "pos": "nn", "rank": 0.0015725485710115976, "text": "maker"}
+{"count": 1, "ids": [964], "pos": "nn", "rank": 0.001562802218408804, "text": "odor"}
+{"count": 1, "ids": [879], "pos": "nn", "rank": 0.0015512725992617125, "text": "prime"}
+{"count": 1, "ids": [944], "pos": "nn", "rank": 0.001540396798644075, "text": "crisper"}
+{"count": 1, "ids": [839], "pos": "nn", "rank": 0.0015380942343572574, "text": "tub"}
+{"count": 1, "ids": [907], "pos": "vbd", "rank": 0.0015380942343572574, "text": "pasteurized"}
+{"count": 1, "ids": [208], "pos": "vb", "rank": 0.0015362777875773147, "text": "build"}
+{"count": 1, "ids": [989], "pos": "nnp", "rank": 0.0015149462692170327, "text": "flip"}
+{"count": 1, "ids": [961], "pos": "nns", "rank": 0.0015020109580365047, "text": "cubes"}
+{"count": 1, "ids": [664], "pos": "nn", "rank": 0.0014991269125089975, "text": "home"}
+{"count": 2, "ids": [233], "pos": "nn", "rank": 0.0014857405912555484, "text": "coffee"}
+{"count": 1, "ids": [981], "pos": "nn", "rank": 0.0014737679567902095, "text": "potential"}
+{"count": 2, "ids": [868], "pos": "nns", "rank": 0.0014636945872166637, "text": "minutes"}
+{"count": 1, "ids": [0, 0, 868], "pos": "np", "rank": 0.0014636945872166637, "text": "about three minutes"}
+{"count": 2, "ids": [826], "pos": "nn", "rank": 0.0014620609504928854, "text": "measuring"}
+{"count": 1, "ids": [916], "pos": "vbp", "rank": 0.0014579065835582032, "text": "require"}
+{"count": 1, "ids": [976], "pos": "nn", "rank": 0.001441834754770798, "text": "cloth"}
+{"count": 1, "ids": [985], "pos": "nn", "rank": 0.0014386038039636974, "text": "expert"}
+{"count": 1, "ids": [930], "pos": "nn", "rank": 0.0014010357636383773, "text": "salad"}
+{"count": 1, "ids": [823], "pos": "nn", "rank": 0.0013470527790935675, "text": "dishwasher-safe"}
+{"count": 1, "ids": [856], "pos": "nn", "rank": 0.001342217712012276, "text": "joe"}
+{"count": 1, "ids": [460], "pos": "vb", "rank": 0.0013380189415004558, "text": "give"}
+{"count": 1, "ids": [935], "pos": "nn", "rank": 0.0013154183274746046, "text": "sugar"}
+{"count": 1, "ids": [831], "pos": "nn", "rank": 0.0013096625764783933, "text": "cycle"}
+{"count": 1, "ids": [785], "pos": "vbz", "rank": 0.0012843813290880077, "text": "prompts"}
+{"count": 1, "ids": [972], "pos": "nns", "rank": 0.0012776589937869317, "text": "slices"}
+{"count": 1, "ids": [870], "pos": "vb", "rank": 0.0012489650893518192, "text": "replace"}
+{"count": 2, "ids": [847], "pos": "nns", "rank": 0.0012198836032594786, "text": "mistakes"}
+{"count": 1, "ids": [888], "pos": "nn", "rank": 0.0011833482225916123, "text": "dust"}
+{"count": 1, "ids": [984], "pos": "nn", "rank": 0.0011833482225916123, "text": "style"}
+{"count": 1, "ids": [873], "pos": "nn", "rank": 0.0011787572667920196, "text": "inside"}
+{"count": 1, "ids": [951], "pos": "vbg", "rank": 0.0011787572667920196, "text": "lingering"}
+{"count": 1, "ids": [968], "pos": "nn", "rank": 0.0011767678124378338, "text": "microwave-safe"}
+{"count": 1, "ids": [142], "pos": "nns", "rank": 0.0011704002174872132, "text": "hours"}
+{"count": 2, "ids": [960], "pos": "nn", "rank": 0.0011704002174872132, "text": "ice"}
+{"count": 1, "ids": [528], "pos": "np", "rank": 0.0011654973118520049, "text": "sense"}
+{"count": 1, "ids": [865], "pos": "np", "rank": 0.0011654973118520049, "text": "brew"}
+{"count": 1, "ids": [869], "pos": "np", "rank": 0.0011654973118520049, "text": "finish"}
+{"count": 1, "ids": [375], "pos": "np", "rank": 0.0011654973118520049, "text": "today"}
+{"count": 1, "ids": [797], "pos": "nn", "rank": 0.0011588021346135026, "text": "kitchen"}
+{"count": 1, "ids": [923], "pos": "nn", "rank": 0.0011588021346135026, "text": "dairy"}
+{"count": 1, "ids": [734], "pos": "nnp", "rank": 0.0011541188500117578, "text": "remove"}
+{"count": 2, "ids": [457], "pos": "vbp", "rank": 0.0011541188500117578, "text": "need"}
+{"count": 2, "ids": [761], "pos": "vb", "rank": 0.0011541188500117578, "text": "keep"}
+{"count": 1, "ids": [835], "pos": "vbg", "rank": 0.001130579536015462, "text": "sprinkling"}
+{"count": 1, "ids": [860], "pos": "nn", "rank": 0.001130579536015462, "text": "reservoir"}
+{"count": 1, "ids": [864], "pos": "nn", "rank": 0.001130579536015462, "text": "basket"}
+{"count": 1, "ids": [940], "pos": "vbd", "rank": 0.0011266766394245511, "text": "labeled"}
+{"count": 1, "ids": [943], "pos": "vbn", "rank": 0.0011266766394245511, "text": "called"}
+{"count": 1, "ids": [862], "pos": "nn", "rank": 0.0011052812735868078, "text": "paper"}
+{"count": 1, "ids": [911], "pos": "nn", "rank": 0.0011052812735868078, "text": "fridge"}
+{"count": 2, "ids": [804], "pos": "vb", "rank": 0.0010967034117632885, "text": "allow"}
+{"count": 2, "ids": [807], "pos": "vb", "rank": 0.0010967034117632885, "text": "affect"}
+{"count": 1, "ids": [988], "pos": "nn", "rank": 0.0010967034117632885, "text": "author"}
+{"count": 1, "ids": [966], "pos": "vbg", "rank": 0.0010886496042438957, "text": "operating"}
+{"count": 1, "ids": [421], "pos": "vb", "rank": 0.0010780886592858174, "text": "launch"}
+{"count": 1, "ids": [794], "pos": "nns", "rank": 0.0010780886592858174, "text": "areas"}
+{"count": 1, "ids": [803], "pos": "vbn", "rank": 0.0010780886592858174, "text": "overlooked"}
+{"count": 1, "ids": [845], "pos": "nn", "rank": 0.0010780886592858174, "text": "truth"}
+{"count": 1, "ids": [855], "pos": "nns", "rank": 0.0010780886592858174, "text": "workings"}
+{"count": 1, "ids": [891], "pos": "vb", "rank": 0.0010780886592858174, "text": "refill"}
+{"count": 1, "ids": [978], "pos": "nn", "rank": 0.0010780886592858174, "text": "soup"}
+{"count": 1, "ids": [798], "pos": "nn", "rank": 0.001075320789852177, "text": "sink"}
+{"count": 1, "ids": [902], "pos": "vb", "rank": 0.0010505647158440552, "text": "absorb"}
+{"count": 1, "ids": [599], "pos": "vbp", "rank": 0.0010505647158440552, "text": "tend"}
+{"count": 1, "ids": [979], "pos": "vbp", "rank": 0.0010409377842175, "text": "melt"}
+{"count": 1, "ids": [867], "pos": "vb", "rank": 0.0010363786102632053, "text": "sit"}
+{"count": 1, "ids": [825], "pos": "np", "rank": 0.0010260221687372895, "text": "pyrex"}
+{"count": 1, "ids": [927], "pos": "nns", "rank": 0.0009900905236401502, "text": "condiments"}
+{"count": 1, "ids": [938], "pos": "nns", "rank": 0.0009900905236401502, "text": "vegetables"}
+{"count": 3, "ids": [866], "pos": "vb", "rank": 0.0009169657453194089, "text": "turn"}
+{"count": 1, "ids": [36], "pos": "nn", "rank": 0.0009013161295927405, "text": "year"}
+{"count": 1, "ids": [790], "pos": "nn", "rank": 0.0009013161295927405, "text": "calendar"}
+{"count": 1, "ids": [808], "pos": "nns", "rank": 0.0008934811936896791, "text": "machines\u2019"}
+{"count": 1, "ids": [238], "pos": "nn", "rank": 0.0008934811936896791, "text": "taste"}
+{"count": 1, "ids": [92], "pos": "vbg", "rank": 0.0008304186576059099, "text": "waiting"}
+{"count": 1, "ids": [853], "pos": "nns", "rank": 0.0008304186576059099, "text": "minerals"}
+{"count": 1, "ids": [877], "pos": "vbn", "rank": 0.0008304186576059099, "text": "expired"}
+{"count": 1, "ids": [887], "pos": "nn", "rank": 0.0008304186576059099, "text": "vacuum"}
+{"count": 1, "ids": [69], "pos": "nn", "rank": 0.0008304186576059099, "text": "show"}
+{"count": 1, "ids": [784], "pos": "vb", "rank": 0.0007065836567659562, "text": "avoid"}
+{"count": 1, "ids": [789], "pos": "vbp", "rank": 0.0005827486559260024, "text": "prefer"}
+{"count": 1, "ids": [793], "pos": "nn", "rank": 0.0005827486559260024, "text": "addition"}
+{"count": 1, "ids": [801], "pos": "vbp", "rank": 0.0005827486559260024, "text": "focus"}
+{"count": 1, "ids": [62], "pos": "vbp", "rank": 0.0005827486559260024, "text": "get"}
+{"count": 2, "ids": [245], "pos": "vbp", "rank": 0.0005827486559260024, "text": "want"}
+{"count": 2, "ids": [819], "pos": "vb", "rank": 0.0005827486559260024, "text": "pour"}
+{"count": 1, "ids": [876], "pos": "vb", "rank": 0.0005827486559260024, "text": "check"}
+{"count": 1, "ids": [878], "pos": "vb", "rank": 0.0005827486559260024, "text": "toss"}
+{"count": 1, "ids": [397], "pos": "vb", "rank": 0.0005827486559260024, "text": "pull"}
+{"count": 1, "ids": [886], "pos": "nn", "rank": 0.0005827486559260024, "text": "wall"}
+{"count": 1, "ids": [44], "pos": "vbp", "rank": 0.0005827486559260024, "text": "go"}
+{"count": 1, "ids": [905], "pos": "vbp", "rank": 0.0005827486559260024, "text": "restock"}
+{"count": 1, "ids": [936], "pos": "vb", "rank": 0.0005827486559260024, "text": "withstand"}
+{"count": 1, "ids": [970], "pos": "vb", "rank": 0.0005827486559260024, "text": "add"}
+{"count": 1, "ids": [328], "pos": "vbp", "rank": 0.0005827486559260024, "text": "suggest"}
+{"count": 1, "ids": [977], "pos": "vbp", "rank": 0.0005827486559260024, "text": "heat"}
+{"count": 2, "ids": [0], "pos": "np", "rank": 0.0, "text": "quarterly"}
+{"count": 1, "ids": [983], "pos": "np", "rank": 0.0, "text": "mayhew"}
